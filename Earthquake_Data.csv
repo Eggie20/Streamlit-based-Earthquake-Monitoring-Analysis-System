@@ -1,0 +1,791 @@
+DATE & TIME,LATITUDE,LONGITUDE,DEPTH (KM),MAGNITUDE,LOCATION,DATE,TIME,CATEGORY,AREA,PROVINCE
+31 January 2023 - 11:58 PM,8.39,126.63,43.0,3.2,033 km N 85° E of Hinatuan (Surigao Del Sur),31 January 2023,11:58 PM,Weak,Hinatuan,Surigao Del Sur
+31 January 2023 - 11:50 PM,7.88,122.79,31.0,2.0,010 km N 22° E of Kabasalan (Zamboanga Sibugay),31 January 2023,11:50 PM,Slightly Felt,Kabasalan,Zamboanga Sibugay
+31 January 2023 - 11:50 PM,5.76,125.23,64.0,2.0,007 km S 23° E of Glan (Sarangani),31 January 2023,11:50 PM,Slightly Felt,Glan,Sarangani
+31 January 2023 - 11:35 PM,13.93,122.9,3.0,2.7,012 km S 16° E of San Lorenzo Ruiz (Camarines Norte),31 January 2023,11:35 PM,Slightly Felt,San Lorenzo Ruiz,Camarines Norte
+31 January 2023 - 11:33 PM,6.82,126.19,32.0,2.2,012 km S 81° E of San Isidro (Davao Oriental),31 January 2023,11:33 PM,Slightly Felt,San Isidro,Davao Oriental
+31 January 2023 - 11:29 PM,13.48,120.08,14.0,3.2,032 km S 35° W of Looc (Occidental Mindoro),31 January 2023,11:29 PM,Weak,Looc,Occidental Mindoro
+31 January 2023 - 09:28 PM,19.99,121.37,32.0,3.2,065 km S 54° W of Sabtang (Batanes),31 January 2023,09:28 PM,Weak,Sabtang,Batanes
+31 January 2023 - 08:32 PM,4.3,128.18,130.0,4.5,327 km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),31 January 2023,08:32 PM,Moderately Strong,Sarangani Island,Municipality Of Sarangani
+31 January 2023 - 08:32 PM,7.37,126.72,87.0,3.2,018 km N 76° E of Caraga (Davao Oriental),31 January 2023,08:32 PM,Weak,Caraga,Davao Oriental
+31 January 2023 - 08:24 PM,20.03,121.32,35.0,3.1,067 km S 60° W of Sabtang (Batanes),31 January 2023,08:24 PM,Weak,Sabtang,Batanes
+31 January 2023 - 07:38 PM,9.15,127.26,82.0,2.8,108 km N 76° E of Cagwait (Surigao Del Sur),31 January 2023,07:38 PM,Slightly Felt,Cagwait,Surigao Del Sur
+31 January 2023 - 06:34 PM,18.58,120.97,26.0,2.0,003 km N 50° W of Santa Praxedes (Cagayan),31 January 2023,06:34 PM,Slightly Felt,Santa Praxedes,Cagayan
+31 January 2023 - 06:03 PM,17.89,120.78,4.0,2.2,013 km S 76° E of Nueva Era (Ilocos Norte),31 January 2023,06:03 PM,Slightly Felt,Nueva Era,Ilocos Norte
+31 January 2023 - 04:49 PM,19.87,121.16,14.0,4.5,075 km N 26° W of Calayan (Cagayan),31 January 2023,04:49 PM,Moderately Strong,Calayan,Cagayan
+31 January 2023 - 12:34 PM,5.83,126.1,66.0,4.6,051 km S 79° E of Jose Abad Santos (Davao Occidental),31 January 2023,12:34 PM,Moderately Strong,Jose Abad Santos,Davao Occidental
+31 January 2023 - 10:17 AM,6.79,126.58,19.0,2.3,032 km S 27° E of Tarragona (Davao Oriental),31 January 2023,10:17 AM,Slightly Felt,Tarragona,Davao Oriental
+31 January 2023 - 09:48 AM,8.24,127.01,7.0,2.5,069 km N 72° E of Lingig (Surigao Del Sur),31 January 2023,09:48 AM,Slightly Felt,Lingig,Surigao Del Sur
+31 January 2023 - 09:36 AM,14.5,120.54,135.0,2.1,009 km N 38° E of Mariveles (Bataan),31 January 2023,09:36 AM,Slightly Felt,Mariveles,Bataan
+31 January 2023 - 09:24 AM,15.54,119.8,17.0,2.4,016 km N 45° W of Palauig (Zambales),31 January 2023,09:24 AM,Slightly Felt,Palauig,Zambales
+31 January 2023 - 08:29 AM,8.89,126.9,8.0,2.7,066 km S 88° E of Cagwait (Surigao Del Sur),31 January 2023,08:29 AM,Slightly Felt,Cagwait,Surigao Del Sur
+31 January 2023 - 08:12 AM,8.91,126.94,1.0,2.4,071 km S 89° E of Cagwait (Surigao Del Sur),31 January 2023,08:12 AM,Slightly Felt,Cagwait,Surigao Del Sur
+31 January 2023 - 04:51 AM,16.49,122.24,13.0,2.6,004 km S 30° W of Dinapigue (Isabela),31 January 2023,04:51 AM,Slightly Felt,Dinapigue,Isabela
+31 January 2023 - 03:56 AM,7.22,126.74,18.0,2.4,022 km N 86° E of Manay (Davao Oriental),31 January 2023,03:56 AM,Slightly Felt,Manay,Davao Oriental
+31 January 2023 - 03:52 AM,7.15,126.88,12.0,3.7,038 km S 80° E of Manay (Davao Oriental),31 January 2023,03:52 AM,Weak,Manay,Davao Oriental
+31 January 2023 - 02:12 AM,13.71,120.6,98.0,1.6,014 km S 13° W of Calatagan (Batangas),31 January 2023,02:12 AM,Scarcely Perceptible,Calatagan,Batangas
+31 January 2023 - 01:30 AM,16.59,119.81,29.0,2.0,024 km N 21° W of Bolinao (Pangasinan),31 January 2023,01:30 AM,Slightly Felt,Bolinao,Pangasinan
+31 January 2023 - 01:27 AM,3.91,127.0,76.0,4.0,241 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),31 January 2023,01:27 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+31 January 2023 - 01:18 AM,10.2,125.88,19.0,2.2,026 km N 41° W of Santa Monica (Surigao Del Norte),31 January 2023,01:18 AM,Slightly Felt,Santa Monica,Surigao Del Norte
+31 January 2023 - 12:59 AM,13.42,120.42,30.0,1.7,005 km N 82° W of Paluan (Occidental Mindoro),31 January 2023,12:59 AM,Scarcely Perceptible,Paluan,Occidental Mindoro
+31 January 2023 - 12:42 AM,15.35,119.76,21.0,3.9,018 km S 61° W of Palauig (Zambales),31 January 2023,12:42 AM,Weak,Palauig,Zambales
+31 January 2023 - 12:27 AM,18.86,121.35,45.0,2.4,003 km N 64° W of Fuga Island (Aparri) (Cagayan),31 January 2023,12:27 AM,Slightly Felt,Fuga Island,Aparri
+30 January 2023 - 11:07 PM,17.68,119.3,77.0,2.6,113 km N 85° W of Santa Catalina (Ilocos Sur),30 January 2023,11:07 PM,Slightly Felt,Santa Catalina,Ilocos Sur
+30 January 2023 - 10:52 PM,9.53,126.23,26.0,1.8,028 km N 08° E of Cortes (Surigao Del Sur),30 January 2023,10:52 PM,Scarcely Perceptible,Cortes,Surigao Del Sur
+30 January 2023 - 10:29 PM,17.68,119.26,28.0,2.7,118 km N 85° W of Santa Catalina (Ilocos Sur),30 January 2023,10:29 PM,Slightly Felt,Santa Catalina,Ilocos Sur
+30 January 2023 - 10:11 PM,9.7,126.03,27.0,2.6,007 km S 25° W of Dapa (Surigao Del Norte),30 January 2023,10:11 PM,Slightly Felt,Dapa,Surigao Del Norte
+30 January 2023 - 09:25 PM,15.65,119.12,1.0,4.0,085 km S 81° W of Santa Cruz (Zambales),30 January 2023,09:25 PM,Moderately Strong,Santa Cruz,Zambales
+30 January 2023 - 09:12 PM,17.83,120.73,11.0,3.0,012 km N 11° E of Lagayan (Abra),30 January 2023,09:12 PM,Weak,Lagayan,Abra
+30 January 2023 - 08:38 PM,17.7,119.27,26.0,3.2,117 km N 84° W of Santa Catalina (Ilocos Sur),30 January 2023,08:38 PM,Weak,Santa Catalina,Ilocos Sur
+30 January 2023 - 01:59 PM,14.97,120.29,118.0,2.0,011 km N 70° E of Castillejos (Zambales),30 January 2023,01:59 PM,Slightly Felt,Castillejos,Zambales
+30 January 2023 - 01:27 PM,5.85,125.93,131.0,2.7,032 km S 77° E of Jose Abad Santos (Davao Occidental),30 January 2023,01:27 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+30 January 2023 - 01:18 PM,10.64,126.65,30.0,2.7,093 km N 42° E of Burgos (Surigao Del Norte),30 January 2023,01:18 PM,Slightly Felt,Burgos,Surigao Del Norte
+30 January 2023 - 12:49 PM,5.86,125.29,20.0,2.0,011 km N 63° E of Glan (Sarangani),30 January 2023,12:49 PM,Slightly Felt,Glan,Sarangani
+30 January 2023 - 12:38 PM,9.8,126.9,1.0,2.4,082 km N 88° E of General Luna (Surigao Del Norte),30 January 2023,12:38 PM,Slightly Felt,General Luna,Surigao Del Norte
+30 January 2023 - 11:45 AM,15.52,120.03,25.0,2.3,008 km S 81° E of Masinloc (Zambales),30 January 2023,11:45 AM,Slightly Felt,Masinloc,Zambales
+30 January 2023 - 11:29 AM,12.69,121.82,6.0,2.7,027 km S 23° E of Concepcion (Romblon),30 January 2023,11:29 AM,Slightly Felt,Concepcion,Romblon
+30 January 2023 - 11:20 AM,10.69,125.54,67.0,2.2,021 km S 75° W of Homonhon Island (Guiuan) (Eastern Samar),30 January 2023,11:20 AM,Slightly Felt,Homonhon Island,Guiuan
+30 January 2023 - 09:07 AM,9.81,126.58,23.0,2.8,046 km N 87° E of General Luna (Surigao Del Norte),30 January 2023,09:07 AM,Slightly Felt,General Luna,Surigao Del Norte
+30 January 2023 - 09:04 AM,9.88,126.69,14.0,3.4,059 km N 79° E of General Luna (Surigao Del Norte),30 January 2023,09:04 AM,Weak,General Luna,Surigao Del Norte
+30 January 2023 - 08:45 AM,12.7,121.81,9.0,2.8,026 km S 21° E of Concepcion (Romblon),30 January 2023,08:45 AM,Slightly Felt,Concepcion,Romblon
+30 January 2023 - 08:25 AM,13.81,120.85,7.0,2.7,009 km S 55° W of San Luis (Batangas),30 January 2023,08:25 AM,Slightly Felt,San Luis,Batangas
+30 January 2023 - 08:16 AM,18.08,120.52,23.0,2.0,002 km N 12° W of Paoay (Ilocos Norte),30 January 2023,08:16 AM,Slightly Felt,Paoay,Ilocos Norte
+30 January 2023 - 06:39 AM,7.35,126.8,30.0,3.2,026 km N 86° E of Caraga (Davao Oriental),30 January 2023,06:39 AM,Weak,Caraga,Davao Oriental
+30 January 2023 - 06:21 AM,5.51,125.24,10.0,2.1,034 km S 06° E of Glan (Sarangani),30 January 2023,06:21 AM,Slightly Felt,Glan,Sarangani
+30 January 2023 - 05:26 AM,8.82,126.36,46.0,2.3,008 km N 73° E of Marihatag (Surigao Del Sur),30 January 2023,05:26 AM,Slightly Felt,Marihatag,Surigao Del Sur
+30 January 2023 - 04:18 AM,5.45,126.25,144.0,4.5,087 km S 88° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),30 January 2023,04:18 AM,Moderately Strong,Sarangani Island,Municipality Of Sarangani
+30 January 2023 - 03:57 AM,2.09,126.99,2.0,5.4,407 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),30 January 2023,03:57 AM,Strong,Balut Island,Municipality Of Sarangani
+30 January 2023 - 03:22 AM,18.01,119.56,11.0,3.0,097 km N 81° W of Sinait (Ilocos Sur),30 January 2023,03:22 AM,Weak,Sinait,Ilocos Sur
+30 January 2023 - 03:20 AM,17.77,120.84,5.0,1.7,006 km N 20° E of Tineg (Abra),30 January 2023,03:20 AM,Scarcely Perceptible,Tineg,Abra
+30 January 2023 - 03:04 AM,9.75,126.11,15.0,1.8,006 km S 54° W of General Luna (Surigao Del Norte),30 January 2023,03:04 AM,Scarcely Perceptible,General Luna,Surigao Del Norte
+30 January 2023 - 02:40 AM,10.78,125.75,20.0,1.8,005 km N 31° E of Homonhon Island (Guiuan) (Eastern Samar),30 January 2023,02:40 AM,Scarcely Perceptible,Homonhon Island,Guiuan
+30 January 2023 - 01:45 AM,14.93,120.2,99.0,3.0,000 km N 63° W of Castillejos (Zambales),30 January 2023,01:45 AM,Weak,Castillejos,Zambales
+30 January 2023 - 01:44 AM,10.15,126.32,5.0,3.2,031 km N 61° E of Burgos (Surigao Del Norte),30 January 2023,01:44 AM,Weak,Burgos,Surigao Del Norte
+30 January 2023 - 01:26 AM,16.71,120.87,9.0,1.8,008 km N 60° W of Tinoc (Ifugao),30 January 2023,01:26 AM,Scarcely Perceptible,Tinoc,Ifugao
+30 January 2023 - 12:35 AM,14.03,120.49,167.0,2.0,017 km S 88° W of Lian (Batangas),30 January 2023,12:35 AM,Slightly Felt,Lian,Batangas
+30 January 2023 - 12:33 AM,10.4,125.96,17.0,2.7,042 km N 84° E of Loreto (Dinagat Islands),30 January 2023,12:33 AM,Slightly Felt,Loreto,Dinagat Islands
+30 January 2023 - 12:11 AM,2.62,126.62,115.0,4.8,336 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),30 January 2023,12:11 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+29 January 2023 - 11:21 PM,18.56,121.14,9.0,2.0,007 km S 51° E of Claveria (Cagayan),29 January 2023,11:21 PM,Slightly Felt,Claveria,Cagayan
+29 January 2023 - 08:57 PM,17.31,120.3,20.0,2.1,015 km S 84° W of San Esteban (Ilocos Sur),29 January 2023,08:57 PM,Slightly Felt,San Esteban,Ilocos Sur
+29 January 2023 - 08:56 PM,10.36,124.19,35.0,1.8,021 km S 79° E of Liloan (Cebu),29 January 2023,08:56 PM,Scarcely Perceptible,Liloan,Cebu
+29 January 2023 - 07:35 PM,5.69,125.25,14.0,2.0,016 km S 18° E of Glan (Sarangani),29 January 2023,07:35 PM,Slightly Felt,Glan,Sarangani
+29 January 2023 - 07:25 PM,14.51,122.97,1.0,2.2,004 km N 38° E of Tinaga Island (Vinzons) (Camarines Norte),29 January 2023,07:25 PM,Slightly Felt,Tinaga Island,Vinzons
+29 January 2023 - 04:35 PM,6.45,124.63,4.0,3.0,006 km N 66° W of Santo NiÃ±o (South Cotabato),29 January 2023,04:35 PM,Weak,Santo NiÃ±o,South Cotabato
+29 January 2023 - 04:00 PM,9.8,125.8,27.0,1.7,021 km S 67° W of Del Carmen (Surigao Del Norte),29 January 2023,04:00 PM,Scarcely Perceptible,Del Carmen,Surigao Del Norte
+29 January 2023 - 02:27 PM,4.36,126.66,67.0,3.9,180 km S 50° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),29 January 2023,02:27 PM,Weak,Balut Island,Municipality Of Sarangani
+29 January 2023 - 01:15 PM,3.08,126.68,96.0,4.1,294 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),29 January 2023,01:15 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+29 January 2023 - 12:23 PM,5.58,125.21,23.0,5.0,026 km S 02° E of Glan (Sarangani),29 January 2023,12:23 PM,Strong,Glan,Sarangani
+29 January 2023 - 12:22 PM,10.44,125.09,28.0,2.6,013 km N 67° W of Hinunangan (Southern Leyte),29 January 2023,12:22 PM,Slightly Felt,Hinunangan,Southern Leyte
+29 January 2023 - 11:59 AM,6.86,124.81,28.0,1.5,008 km N 65° W of Tulunan (Cotabato),29 January 2023,11:59 AM,Scarcely Perceptible,Tulunan,Cotabato
+29 January 2023 - 11:56 AM,6.83,125.05,10.0,2.3,015 km N 54° W of Magsaysay (Davao Del Sur),29 January 2023,11:56 AM,Slightly Felt,Magsaysay,Davao Del Sur
+29 January 2023 - 11:20 AM,2.9,126.71,5.0,4.4,312 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),29 January 2023,11:20 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+29 January 2023 - 10:26 AM,8.87,125.69,7.0,2.3,006 km N 02° E of Sibagat (Agusan Del Sur),29 January 2023,10:26 AM,Slightly Felt,Sibagat,Agusan Del Sur
+29 January 2023 - 09:45 AM,2.9,126.51,16.0,3.9,303 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),29 January 2023,09:45 AM,Weak,Balut Island,Municipality Of Sarangani
+29 January 2023 - 09:23 AM,5.28,127.01,98.0,3.2,167 km S 65° E of Jose Abad Santos (Davao Occidental),29 January 2023,09:23 AM,Weak,Jose Abad Santos,Davao Occidental
+29 January 2023 - 09:19 AM,2.63,126.84,18.0,3.6,345 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),29 January 2023,09:19 AM,Weak,Balut Island,Municipality Of Sarangani
+29 January 2023 - 02:59 AM,14.34,123.05,1.0,2.0,018 km S 35° E of Tinaga Island (Vinzons) (Camarines Norte),29 January 2023,02:59 AM,Slightly Felt,Tinaga Island,Vinzons
+29 January 2023 - 02:24 AM,10.23,125.19,31.0,2.5,004 km S 25° E of San Juan (Southern Leyte),29 January 2023,02:24 AM,Slightly Felt,San Juan,Southern Leyte
+29 January 2023 - 12:02 AM,8.1,126.26,105.0,2.9,014 km S 24° W of City Of Bislig (Surigao Del Sur),29 January 2023,12:02 AM,Slightly Felt,City Of Bislig,Surigao Del Sur
+28 January 2023 - 11:59 PM,8.41,123.52,20.0,1.9,005 km S 78° E of Mutia (Zamboanga Del Norte),28 January 2023,11:59 PM,Scarcely Perceptible,Mutia,Zamboanga Del Norte
+28 January 2023 - 11:29 PM,6.6,123.6,54.0,3.1,050 km N 84° W of Kalamansig (Sultan Kudarat),28 January 2023,11:29 PM,Weak,Kalamansig,Sultan Kudarat
+28 January 2023 - 09:11 PM,16.08,119.47,1.0,3.0,035 km S 83° W of Agno (Pangasinan),28 January 2023,09:11 PM,Weak,Agno,Pangasinan
+28 January 2023 - 08:56 PM,10.68,125.5,57.0,2.3,026 km S 74° W of Homonhon Island (Guiuan) (Eastern Samar),28 January 2023,08:56 PM,Slightly Felt,Homonhon Island,Guiuan
+28 January 2023 - 08:31 PM,15.36,120.1,29.0,1.7,011 km N 46° E of Botolan (Zambales),28 January 2023,08:31 PM,Scarcely Perceptible,Botolan,Zambales
+28 January 2023 - 07:50 PM,8.49,126.65,17.0,2.6,038 km N 68° E of Hinatuan (Surigao Del Sur),28 January 2023,07:50 PM,Slightly Felt,Hinatuan,Surigao Del Sur
+28 January 2023 - 06:55 PM,18.69,120.76,1.0,3.0,015 km N 13° W of Pagudpud (Ilocos Norte),28 January 2023,06:55 PM,Weak,Pagudpud,Ilocos Norte
+28 January 2023 - 02:56 PM,8.48,126.55,35.0,3.0,026 km N 61° E of Hinatuan (Surigao Del Sur),28 January 2023,02:56 PM,Weak,Hinatuan,Surigao Del Sur
+28 January 2023 - 02:22 PM,9.61,126.24,32.0,1.6,022 km S 25° E of General Luna (Surigao Del Norte),28 January 2023,02:22 PM,Scarcely Perceptible,General Luna,Surigao Del Norte
+28 January 2023 - 09:51 AM,10.69,122.29,7.0,2.7,004 km S 45° E of Igbaras (Iloilo),28 January 2023,09:51 AM,Slightly Felt,Igbaras,Iloilo
+28 January 2023 - 08:34 AM,10.14,126.43,8.0,3.5,041 km N 71° E of Burgos (Surigao Del Norte),28 January 2023,08:34 AM,Weak,Burgos,Surigao Del Norte
+28 January 2023 - 06:55 AM,10.74,125.53,72.0,2.9,021 km N 89° W of Homonhon Island (Guiuan) (Eastern Samar),28 January 2023,06:55 AM,Slightly Felt,Homonhon Island,Guiuan
+28 January 2023 - 06:27 AM,6.98,126.0,29.0,2.8,002 km N 57° W of Banaybanay (Davao Oriental),28 January 2023,06:27 AM,Slightly Felt,Banaybanay,Davao Oriental
+28 January 2023 - 04:51 AM,10.69,125.59,78.0,2.7,016 km S 67° W of Homonhon Island (Guiuan) (Eastern Samar),28 January 2023,04:51 AM,Slightly Felt,Homonhon Island,Guiuan
+28 January 2023 - 04:25 AM,10.74,125.58,71.0,5.5,015 km S 88° W of Homonhon Island (Guiuan) (Eastern Samar),28 January 2023,04:25 AM,Strong,Homonhon Island,Guiuan
+28 January 2023 - 01:36 AM,14.47,122.96,1.0,2.7,002 km S 47° E of Tinaga Island (Vinzons) (Camarines Norte),28 January 2023,01:36 AM,Slightly Felt,Tinaga Island,Vinzons
+27 January 2023 - 11:41 PM,17.25,121.1,12.0,3.2,005 km S 76° W of Tinglayan (Kalinga),27 January 2023,11:41 PM,Weak,Tinglayan,Kalinga
+27 January 2023 - 11:18 PM,8.7,125.96,3.0,2.4,012 km N 21° E of Prosperidad (Agusan Del Sur),27 January 2023,11:18 PM,Slightly Felt,Prosperidad,Agusan Del Sur
+27 January 2023 - 10:59 PM,6.9,126.68,151.0,2.3,030 km S 58° E of Tarragona (Davao Oriental),27 January 2023,10:59 PM,Slightly Felt,Tarragona,Davao Oriental
+27 January 2023 - 06:45 PM,18.98,121.97,1.0,2.7,013 km N 53° E of Camiguin Island (Calayan) (Cagayan),27 January 2023,06:45 PM,Slightly Felt,Camiguin Island,Calayan
+27 January 2023 - 03:31 PM,7.15,123.66,32.0,2.2,040 km N 77° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),27 January 2023,03:31 PM,Slightly Felt,Datu Blah T. Sinsuat,Maguindanao Del Norte
+27 January 2023 - 03:06 PM,4.69,126.0,18.0,4.1,102 km S 39° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),27 January 2023,03:06 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+27 January 2023 - 02:28 PM,14.32,120.36,115.0,3.5,019 km S 47° W of Mariveles (Bataan),27 January 2023,02:28 PM,Weak,Mariveles,Bataan
+27 January 2023 - 11:21 AM,13.91,120.42,105.0,4.0,025 km N 69° W of Calatagan (Batangas),27 January 2023,11:21 AM,Moderately Strong,Calatagan,Batangas
+27 January 2023 - 10:11 AM,16.65,120.32,9.0,1.8,008 km S 23° W of Bacnotan (La Union),27 January 2023,10:11 AM,Scarcely Perceptible,Bacnotan,La Union
+27 January 2023 - 09:52 AM,9.64,126.1,23.0,2.4,015 km N 81° E of Socorro (Surigao Del Norte),27 January 2023,09:52 AM,Slightly Felt,Socorro,Surigao Del Norte
+27 January 2023 - 09:40 AM,10.12,126.48,6.0,3.6,046 km N 76° E of Burgos (Surigao Del Norte),27 January 2023,09:40 AM,Weak,Burgos,Surigao Del Norte
+27 January 2023 - 09:06 AM,10.09,126.43,4.0,3.9,040 km N 79° E of Burgos (Surigao Del Norte),27 January 2023,09:06 AM,Weak,Burgos,Surigao Del Norte
+27 January 2023 - 08:55 AM,10.16,126.6,2.0,3.6,059 km N 75° E of Burgos (Surigao Del Norte),27 January 2023,08:55 AM,Weak,Burgos,Surigao Del Norte
+27 January 2023 - 08:40 AM,14.43,123.1,1.0,2.0,017 km S 72° E of Tinaga Island (Vinzons) (Camarines Norte),27 January 2023,08:40 AM,Slightly Felt,Tinaga Island,Vinzons
+27 January 2023 - 08:35 AM,16.97,121.36,17.0,2.0,004 km S 75° E of Aguinaldo (Ifugao),27 January 2023,08:35 AM,Slightly Felt,Aguinaldo,Ifugao
+27 January 2023 - 08:13 AM,9.33,126.01,135.0,1.9,012 km N 02° W of Carmen (Surigao Del Sur),27 January 2023,08:13 AM,Scarcely Perceptible,Carmen,Surigao Del Sur
+27 January 2023 - 06:56 AM,16.59,120.39,32.0,2.1,005 km S 64° W of Bagulin (La Union),27 January 2023,06:56 AM,Slightly Felt,Bagulin,La Union
+27 January 2023 - 06:54 AM,10.21,126.44,8.0,3.3,046 km N 62° E of Burgos (Surigao Del Norte),27 January 2023,06:54 AM,Weak,Burgos,Surigao Del Norte
+27 January 2023 - 06:47 AM,9.11,126.47,22.0,2.2,028 km N 42° E of Cagwait (Surigao Del Sur),27 January 2023,06:47 AM,Slightly Felt,Cagwait,Surigao Del Sur
+27 January 2023 - 06:05 AM,10.31,125.79,19.0,2.2,024 km S 77° E of Loreto (Dinagat Islands),27 January 2023,06:05 AM,Slightly Felt,Loreto,Dinagat Islands
+27 January 2023 - 05:22 AM,2.94,126.34,1.0,4.6,291 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),27 January 2023,05:22 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+27 January 2023 - 04:13 AM,17.76,121.22,9.0,1.7,012 km S 69° W of Conner (Apayao),27 January 2023,04:13 AM,Scarcely Perceptible,Conner,Apayao
+27 January 2023 - 03:36 AM,6.85,126.75,140.0,2.1,040 km S 57° E of Tarragona (Davao Oriental),27 January 2023,03:36 AM,Slightly Felt,Tarragona,Davao Oriental
+27 January 2023 - 03:32 AM,7.57,126.57,4.0,2.5,001 km S 30° E of Baganga (Davao Oriental),27 January 2023,03:32 AM,Slightly Felt,Baganga,Davao Oriental
+27 January 2023 - 03:21 AM,9.29,126.48,13.0,2.6,032 km N 86° E of Cortes (Surigao Del Sur),27 January 2023,03:21 AM,Slightly Felt,Cortes,Surigao Del Sur
+27 January 2023 - 03:00 AM,5.74,124.8,20.0,3.5,033 km S 35° E of Kiamba (Sarangani),27 January 2023,03:00 AM,Weak,Kiamba,Sarangani
+27 January 2023 - 02:07 AM,10.5,125.12,1.0,2.6,006 km S 54° W of Silago (Southern Leyte),27 January 2023,02:07 AM,Slightly Felt,Silago,Southern Leyte
+27 January 2023 - 01:54 AM,6.67,123.84,1.0,2.4,027 km N 61° W of Kalamansig (Sultan Kudarat),27 January 2023,01:54 AM,Slightly Felt,Kalamansig,Sultan Kudarat
+27 January 2023 - 01:33 AM,2.73,126.72,56.0,4.4,330 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),27 January 2023,01:33 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+27 January 2023 - 01:25 AM,2.67,126.8,71.0,4.7,340 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),27 January 2023,01:25 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+27 January 2023 - 12:38 AM,6.08,126.22,116.0,2.9,059 km S 77° E of Don Marcelino (Davao Occidental),27 January 2023,12:38 AM,Slightly Felt,Don Marcelino,Davao Occidental
+27 January 2023 - 12:18 AM,18.33,120.76,20.0,2.1,015 km S 88° E of Pasuquin (Ilocos Norte),27 January 2023,12:18 AM,Slightly Felt,Pasuquin,Ilocos Norte
+26 January 2023 - 11:28 PM,13.73,120.62,124.0,2.5,011 km S 04° W of Calatagan (Batangas),26 January 2023,11:28 PM,Slightly Felt,Calatagan,Batangas
+26 January 2023 - 11:19 PM,8.69,126.47,20.0,2.0,023 km S 57° E of Marihatag (Surigao Del Sur),26 January 2023,11:19 PM,Slightly Felt,Marihatag,Surigao Del Sur
+26 January 2023 - 08:46 PM,8.52,127.12,9.0,2.9,088 km N 79° E of Hinatuan (Surigao Del Sur),26 January 2023,08:46 PM,Slightly Felt,Hinatuan,Surigao Del Sur
+26 January 2023 - 08:39 PM,9.54,126.27,18.0,2.5,030 km S 24° E of General Luna (Surigao Del Norte),26 January 2023,08:39 PM,Slightly Felt,General Luna,Surigao Del Norte
+26 January 2023 - 05:23 PM,7.05,125.99,36.0,2.1,009 km N 30° W of Banaybanay (Davao Oriental),26 January 2023,05:23 PM,Slightly Felt,Banaybanay,Davao Oriental
+26 January 2023 - 03:13 PM,9.26,123.19,7.0,3.4,006 km S 73° W of Valencia (Negros Oriental),26 January 2023,03:13 PM,Weak,Valencia,Negros Oriental
+26 January 2023 - 01:04 PM,13.65,120.62,100.0,1.8,021 km S 02° W of Calatagan (Batangas),26 January 2023,01:04 PM,Scarcely Perceptible,Calatagan,Batangas
+26 January 2023 - 12:23 PM,2.65,127.01,95.0,5.6,353 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),26 January 2023,12:23 PM,Strong,Balut Island,Municipality Of Sarangani
+26 January 2023 - 10:14 AM,5.69,126.01,103.0,2.6,048 km S 58° E of Jose Abad Santos (Davao Occidental),26 January 2023,10:14 AM,Slightly Felt,Jose Abad Santos,Davao Occidental
+26 January 2023 - 10:06 AM,17.81,121.33,23.0,2.1,002 km N 22° E of Conner (Apayao),26 January 2023,10:06 AM,Slightly Felt,Conner,Apayao
+26 January 2023 - 05:45 AM,6.03,126.33,85.0,2.9,072 km S 75° E of Don Marcelino (Davao Occidental),26 January 2023,05:45 AM,Slightly Felt,Don Marcelino,Davao Occidental
+26 January 2023 - 05:45 AM,13.51,120.57,127.0,1.8,019 km N 69° W of Abra De Ilog (Occidental Mindoro),26 January 2023,05:45 AM,Scarcely Perceptible,Abra De Ilog,Occidental Mindoro
+26 January 2023 - 05:20 AM,17.46,121.07,13.0,1.8,015 km S 90° E of Daguioman (Abra),26 January 2023,05:20 AM,Scarcely Perceptible,Daguioman,Abra
+26 January 2023 - 05:10 AM,13.62,120.59,76.0,2.5,024 km S 11° W of Calatagan (Batangas),26 January 2023,05:10 AM,Slightly Felt,Calatagan,Batangas
+26 January 2023 - 04:57 AM,16.63,119.83,22.0,3.2,027 km N 15° W of Bolinao (Pangasinan),26 January 2023,04:57 AM,Weak,Bolinao,Pangasinan
+26 January 2023 - 04:32 AM,17.13,121.52,8.0,1.4,010 km N 83° W of Roxas (Isabela),26 January 2023,04:32 AM,Scarcely Perceptible,Roxas,Isabela
+26 January 2023 - 04:31 AM,18.08,120.43,29.0,2.0,010 km N 43° W of Currimao (Ilocos Norte),26 January 2023,04:31 AM,Slightly Felt,Currimao,Ilocos Norte
+26 January 2023 - 01:56 AM,7.99,123.57,34.0,1.7,005 km N 26° W of Aurora (Zamboanga Del Sur),26 January 2023,01:56 AM,Scarcely Perceptible,Aurora,Zamboanga Del Sur
+26 January 2023 - 01:33 AM,11.25,124.54,1.0,2.4,007 km N 21° W of Kananga (Leyte),26 January 2023,01:33 AM,Slightly Felt,Kananga,Leyte
+26 January 2023 - 12:52 AM,13.66,120.62,76.0,1.5,019 km S 03° W of Calatagan (Batangas),26 January 2023,12:52 AM,Scarcely Perceptible,Calatagan,Batangas
+26 January 2023 - 12:27 AM,15.11,122.38,27.0,4.3,043 km N 23° E of Patnanungan (Quezon),26 January 2023,12:27 AM,Moderately Strong,Patnanungan,Quezon
+25 January 2023 - 11:59 PM,4.71,124.98,60.0,3.0,092 km S 33° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,11:59 PM,Weak,Balut Island,Municipality Of Sarangani
+25 January 2023 - 11:47 PM,17.43,120.95,10.0,2.2,004 km S 44° E of Daguioman (Abra),25 January 2023,11:47 PM,Slightly Felt,Daguioman,Abra
+25 January 2023 - 11:36 PM,9.12,126.61,15.0,2.8,040 km N 64° E of Bayabas (Surigao Del Sur),25 January 2023,11:36 PM,Slightly Felt,Bayabas,Surigao Del Sur
+25 January 2023 - 10:25 PM,9.7,126.29,19.0,2.3,017 km S 58° E of General Luna (Surigao Del Norte),25 January 2023,10:25 PM,Slightly Felt,General Luna,Surigao Del Norte
+25 January 2023 - 09:09 PM,9.32,126.44,34.0,1.9,028 km N 79° E of Cortes (Surigao Del Sur),25 January 2023,09:09 PM,Scarcely Perceptible,Cortes,Surigao Del Sur
+25 January 2023 - 08:54 PM,9.81,126.37,10.0,2.5,024 km N 83° E of General Luna (Surigao Del Norte),25 January 2023,08:54 PM,Slightly Felt,General Luna,Surigao Del Norte
+25 January 2023 - 06:06 PM,5.79,126.04,119.0,3.0,045 km S 73° E of Jose Abad Santos (Davao Occidental),25 January 2023,06:06 PM,Weak,Jose Abad Santos,Davao Occidental
+25 January 2023 - 04:02 PM,6.8,126.21,22.0,2.7,017 km S 01° W of City Of Mati (Davao Oriental),25 January 2023,04:02 PM,Slightly Felt,City Of Mati,Davao Oriental
+25 January 2023 - 02:57 PM,4.6,125.94,140.0,3.4,107 km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,02:57 PM,Weak,Balut Island,Municipality Of Sarangani
+25 January 2023 - 01:58 PM,5.59,126.77,33.0,2.5,129 km S 74° E of Jose Abad Santos (Davao Occidental),25 January 2023,01:58 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+25 January 2023 - 12:54 PM,15.13,120.4,175.0,3.2,016 km N 66° W of Porac (Pampanga),25 January 2023,12:54 PM,Weak,Porac,Pampanga
+25 January 2023 - 12:30 PM,9.12,126.58,10.0,2.1,036 km N 63° E of Bayabas (Surigao Del Sur),25 January 2023,12:30 PM,Slightly Felt,Bayabas,Surigao Del Sur
+25 January 2023 - 11:35 AM,9.14,126.65,12.0,4.0,045 km N 65° E of Bayabas (Surigao Del Sur),25 January 2023,11:35 AM,Moderately Strong,Bayabas,Surigao Del Sur
+25 January 2023 - 10:19 AM,9.54,121.86,12.0,2.8,069 km S 84° W of Hinoba-an (Negros Occidental),25 January 2023,10:19 AM,Slightly Felt,Hinoba-an,Negros Occidental
+25 January 2023 - 10:08 AM,14.12,120.49,117.0,1.9,016 km N 73° W of Nasugbu (Batangas),25 January 2023,10:08 AM,Scarcely Perceptible,Nasugbu,Batangas
+25 January 2023 - 10:08 AM,9.5,121.92,8.0,3.3,061 km S 80° W of Hinoba-an (Negros Occidental),25 January 2023,10:08 AM,Weak,Hinoba-an,Negros Occidental
+25 January 2023 - 08:44 AM,2.98,126.55,1.0,3.9,296 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,08:44 AM,Weak,Balut Island,Municipality Of Sarangani
+25 January 2023 - 07:50 AM,14.15,120.44,114.0,2.1,022 km N 67° W of Nasugbu (Batangas),25 January 2023,07:50 AM,Slightly Felt,Nasugbu,Batangas
+25 January 2023 - 04:18 AM,2.93,126.65,107.0,4.6,307 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,04:18 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+25 January 2023 - 04:12 AM,2.58,126.52,5.0,4.2,336 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,04:12 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+25 January 2023 - 03:25 AM,7.26,128.46,68.0,2.6,210 km S 88° E of Caraga (Davao Oriental),25 January 2023,03:25 AM,Slightly Felt,Caraga,Davao Oriental
+25 January 2023 - 03:16 AM,12.54,118.44,39.0,3.2,169 km N 75° W of Busuanga (Palawan),25 January 2023,03:16 AM,Weak,Busuanga,Palawan
+25 January 2023 - 02:53 AM,10.4,125.94,19.0,3.1,045 km S 32° E of Homonhon Island (Guiuan) (Eastern Samar),25 January 2023,02:53 AM,Weak,Homonhon Island,Guiuan
+25 January 2023 - 12:55 AM,4.51,125.85,149.0,2.9,110 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,12:55 AM,Slightly Felt,Balut Island,Municipality Of Sarangani
+25 January 2023 - 12:10 AM,3.81,128.63,63.0,5.1,395 km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),25 January 2023,12:10 AM,Strong,Sarangani Island,Municipality Of Sarangani
+24 January 2023 - 11:47 PM,7.65,126.47,6.0,2.2,013 km N 48° W of Baganga (Davao Oriental),24 January 2023,11:47 PM,Slightly Felt,Baganga,Davao Oriental
+24 January 2023 - 10:27 PM,8.47,126.66,15.0,2.2,038 km N 72° E of Hinatuan (Surigao Del Sur),24 January 2023,10:27 PM,Slightly Felt,Hinatuan,Surigao Del Sur
+24 January 2023 - 09:33 PM,16.97,120.51,88.0,1.8,008 km N 59° E of Tagudin (Ilocos Sur),24 January 2023,09:33 PM,Scarcely Perceptible,Tagudin,Ilocos Sur
+24 January 2023 - 09:13 PM,6.46,125.94,127.0,2.5,026 km S 34° W of Governor Generoso (Davao Oriental),24 January 2023,09:13 PM,Slightly Felt,Governor Generoso,Davao Oriental
+24 January 2023 - 09:11 PM,2.86,126.61,32.0,4.4,311 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,09:11 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 07:21 PM,6.04,126.34,38.0,2.5,074 km S 76° E of Don Marcelino (Davao Occidental),24 January 2023,07:21 PM,Slightly Felt,Don Marcelino,Davao Occidental
+24 January 2023 - 06:47 PM,13.69,120.24,69.0,1.8,039 km N 38° W of Paluan (Occidental Mindoro),24 January 2023,06:47 PM,Scarcely Perceptible,Paluan,Occidental Mindoro
+24 January 2023 - 05:45 PM,9.93,124.0,1.0,3.2,004 km S 38° W of Clarin (Bohol),24 January 2023,05:45 PM,Weak,Clarin,Bohol
+24 January 2023 - 04:19 PM,15.39,119.75,24.0,2.2,018 km S 73° W of Palauig (Zambales),24 January 2023,04:19 PM,Slightly Felt,Palauig,Zambales
+24 January 2023 - 03:31 PM,6.7,124.42,20.0,2.2,011 km S 79° W of Esperanza (Sultan Kudarat),24 January 2023,03:31 PM,Slightly Felt,Esperanza,Sultan Kudarat
+24 January 2023 - 02:31 PM,13.81,120.61,120.0,3.4,004 km S 40° W of Calatagan (Batangas),24 January 2023,02:31 PM,Weak,Calatagan,Batangas
+24 January 2023 - 12:02 PM,2.98,126.79,103.0,4.4,309 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,12:02 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 10:54 AM,8.67,126.69,13.0,2.4,045 km S 71° E of Marihatag (Surigao Del Sur),24 January 2023,10:54 AM,Slightly Felt,Marihatag,Surigao Del Sur
+24 January 2023 - 10:29 AM,2.14,126.89,15.0,4.8,397 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,10:29 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 10:13 AM,2.96,126.7,76.0,5.9,306 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,10:13 AM,Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 09:30 AM,10.42,125.95,19.0,2.8,042 km N 81° E of Loreto (Dinagat Islands),24 January 2023,09:30 AM,Slightly Felt,Loreto,Dinagat Islands
+24 January 2023 - 09:10 AM,2.22,126.67,36.0,5.3,380 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,09:10 AM,Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 07:20 AM,14.03,120.61,3.0,1.9,005 km S 75° W of Lian (Batangas),24 January 2023,07:20 AM,Scarcely Perceptible,Lian,Batangas
+24 January 2023 - 06:09 AM,12.78,124.48,15.0,3.5,017 km N 49° E of Biri (Northern Samar),24 January 2023,06:09 AM,Weak,Biri,Northern Samar
+24 January 2023 - 06:01 AM,12.89,124.53,10.0,3.3,029 km N 38° E of Biri (Northern Samar),24 January 2023,06:01 AM,Weak,Biri,Northern Samar
+24 January 2023 - 05:55 AM,2.23,127.87,1.0,4.4,445 km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,05:55 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 05:20 AM,16.23,121.79,1.0,1.9,017 km S 42° E of Maddela (Quirino),24 January 2023,05:20 AM,Scarcely Perceptible,Maddela,Quirino
+24 January 2023 - 05:01 AM,13.25,121.86,33.0,1.6,008 km S 10° E of Gasan (Marinduque),24 January 2023,05:01 AM,Scarcely Perceptible,Gasan,Marinduque
+24 January 2023 - 04:10 AM,10.4,125.96,20.0,3.2,044 km N 17° W of Burgos (Surigao Del Norte),24 January 2023,04:10 AM,Weak,Burgos,Surigao Del Norte
+24 January 2023 - 03:42 AM,6.44,126.13,22.0,2.9,025 km S 16° E of Governor Generoso (Davao Oriental),24 January 2023,03:42 AM,Slightly Felt,Governor Generoso,Davao Oriental
+24 January 2023 - 03:23 AM,13.7,120.59,89.0,1.4,016 km S 16° W of Calatagan (Batangas),24 January 2023,03:23 AM,Scarcely Perceptible,Calatagan,Batangas
+24 January 2023 - 03:12 AM,17.47,120.72,10.0,2.5,007 km S 03° E of Bucay (Abra),24 January 2023,03:12 AM,Slightly Felt,Bucay,Abra
+24 January 2023 - 03:03 AM,10.96,124.46,23.0,2.2,010 km N 55° W of Merida (Leyte),24 January 2023,03:03 AM,Slightly Felt,Merida,Leyte
+24 January 2023 - 02:30 AM,10.42,125.95,15.0,3.4,041 km N 81° E of Loreto (Dinagat Islands),24 January 2023,02:30 AM,Weak,Loreto,Dinagat Islands
+24 January 2023 - 02:18 AM,10.36,125.94,17.0,2.2,040 km N 15° W of Santa Monica (Surigao Del Norte),24 January 2023,02:18 AM,Slightly Felt,Santa Monica,Surigao Del Norte
+24 January 2023 - 02:17 AM,2.55,126.74,34.0,5.4,349 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,02:17 AM,Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 01:51 AM,13.67,120.71,33.0,2.5,020 km S 26° E of Calatagan (Batangas),24 January 2023,01:51 AM,Slightly Felt,Calatagan,Batangas
+24 January 2023 - 01:06 AM,2.27,126.62,32.0,4.9,372 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),24 January 2023,01:06 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+24 January 2023 - 12:54 AM,6.44,125.89,6.0,1.6,031 km N 85° E of Malita (Davao Occidental),24 January 2023,12:54 AM,Scarcely Perceptible,Malita,Davao Occidental
+24 January 2023 - 12:47 AM,6.87,126.62,97.0,2.8,028 km S 44° E of Tarragona (Davao Oriental),24 January 2023,12:47 AM,Slightly Felt,Tarragona,Davao Oriental
+24 January 2023 - 12:40 AM,10.43,126.02,25.0,3.3,045 km N 02° W of Santa Monica (Surigao Del Norte),24 January 2023,12:40 AM,Weak,Santa Monica,Surigao Del Norte
+24 January 2023 - 12:35 AM,16.88,119.86,13.0,2.6,055 km N 87° W of Luna (La Union),24 January 2023,12:35 AM,Slightly Felt,Luna,La Union
+24 January 2023 - 12:08 AM,7.83,123.16,18.0,1.5,007 km N 80° W of Tigbao (Zamboanga Del Sur),24 January 2023,12:08 AM,Scarcely Perceptible,Tigbao,Zamboanga Del Sur
+23 January 2023 - 11:38 PM,2.52,126.66,46.0,4.9,348 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),23 January 2023,11:38 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+23 January 2023 - 11:16 PM,13.32,120.1,21.0,2.9,041 km S 75° W of Paluan (Occidental Mindoro),23 January 2023,11:16 PM,Slightly Felt,Paluan,Occidental Mindoro
+23 January 2023 - 11:12 PM,9.7,122.25,18.0,2.8,021 km S 68° W of City Of Sipalay (Negros Occidental),23 January 2023,11:12 PM,Slightly Felt,City Of Sipalay,Negros Occidental
+23 January 2023 - 11:04 PM,17.53,120.69,17.0,2.6,003 km S 80° W of Bucay (Abra),23 January 2023,11:04 PM,Slightly Felt,Bucay,Abra
+23 January 2023 - 10:25 PM,7.85,123.24,13.0,1.8,003 km N 30° E of Tigbao (Zamboanga Del Sur),23 January 2023,10:25 PM,Scarcely Perceptible,Tigbao,Zamboanga Del Sur
+23 January 2023 - 10:22 PM,17.02,120.56,7.0,2.8,007 km N 51° E of Suyo (Ilocos Sur),23 January 2023,10:22 PM,Slightly Felt,Suyo,Ilocos Sur
+23 January 2023 - 10:01 PM,2.95,126.84,112.0,4.5,315 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),23 January 2023,10:01 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+23 January 2023 - 09:32 PM,11.25,121.78,1.0,3.0,036 km S 57° W of Culasi (Antique),23 January 2023,09:32 PM,Weak,Culasi,Antique
+23 January 2023 - 08:20 PM,13.77,120.68,33.0,1.5,008 km S 38° E of Calatagan (Batangas),23 January 2023,08:20 PM,Scarcely Perceptible,Calatagan,Batangas
+23 January 2023 - 06:29 PM,8.87,126.5,29.0,2.1,022 km S 77° E of Cagwait (Surigao Del Sur),23 January 2023,06:29 PM,Slightly Felt,Cagwait,Surigao Del Sur
+23 January 2023 - 04:20 PM,5.95,126.1,143.0,3.6,050 km N 85° E of Jose Abad Santos (Davao Occidental),23 January 2023,04:20 PM,Weak,Jose Abad Santos,Davao Occidental
+23 January 2023 - 02:39 PM,17.57,120.6,20.0,2.1,001 km N 69° E of Pidigan (Abra),23 January 2023,02:39 PM,Slightly Felt,Pidigan,Abra
+23 January 2023 - 02:35 PM,13.29,122.17,5.0,1.7,010 km S 69° E of Torrijos (Marinduque),23 January 2023,02:35 PM,Scarcely Perceptible,Torrijos,Marinduque
+23 January 2023 - 02:01 PM,9.28,126.09,30.0,2.4,006 km N 28° E of Lanuza (Surigao Del Sur),23 January 2023,02:01 PM,Slightly Felt,Lanuza,Surigao Del Sur
+23 January 2023 - 11:00 AM,8.95,125.13,18.0,2.2,010 km S 33° W of Magsaysay (Misamis Oriental),23 January 2023,11:00 AM,Slightly Felt,Magsaysay,Misamis Oriental
+23 January 2023 - 10:00 AM,17.27,121.49,28.0,1.8,013 km N 45° E of Paracelis (Mountain Province),23 January 2023,10:00 AM,Scarcely Perceptible,Paracelis,Mountain Province
+23 January 2023 - 06:49 AM,6.63,126.92,102.0,4.8,070 km S 48° E of Tarragona (Davao Oriental),23 January 2023,06:49 AM,Moderately Strong,Tarragona,Davao Oriental
+23 January 2023 - 06:45 AM,17.5,120.53,26.0,1.7,005 km S 16° E of San Quintin (Abra),23 January 2023,06:45 AM,Scarcely Perceptible,San Quintin,Abra
+23 January 2023 - 06:45 AM,6.99,126.16,12.0,2.2,007 km N 59° W of City Of Mati (Davao Oriental),23 January 2023,06:45 AM,Slightly Felt,City Of Mati,Davao Oriental
+23 January 2023 - 05:34 AM,17.46,120.37,32.0,2.5,008 km S 66° W of Santa (Ilocos Sur),23 January 2023,05:34 AM,Slightly Felt,Santa,Ilocos Sur
+23 January 2023 - 04:53 AM,17.84,120.76,23.0,2.6,013 km S 51° E of Nueva Era (Ilocos Norte),23 January 2023,04:53 AM,Slightly Felt,Nueva Era,Ilocos Norte
+23 January 2023 - 04:51 AM,16.21,120.59,17.0,2.2,009 km N 66° E of Sison (Pangasinan),23 January 2023,04:51 AM,Slightly Felt,Sison,Pangasinan
+23 January 2023 - 04:26 AM,8.81,122.78,24.0,2.8,039 km S 45° W of Siaton (Negros Oriental),23 January 2023,04:26 AM,Slightly Felt,Siaton,Negros Oriental
+23 January 2023 - 03:29 AM,12.27,122.41,16.0,2.0,021 km S 79° W of San Fernando (Romblon),23 January 2023,03:29 AM,Slightly Felt,San Fernando,Romblon
+23 January 2023 - 03:28 AM,5.16,126.27,60.0,2.5,095 km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),23 January 2023,03:28 AM,Slightly Felt,Sarangani Island,Municipality Of Sarangani
+23 January 2023 - 02:59 AM,17.96,120.1,27.0,2.5,039 km N 75° W of Sinait (Ilocos Sur),23 January 2023,02:59 AM,Slightly Felt,Sinait,Ilocos Sur
+23 January 2023 - 02:21 AM,2.54,126.71,29.0,4.5,348 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),23 January 2023,02:21 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+23 January 2023 - 02:03 AM,7.79,124.73,5.0,2.5,005 km N 85° E of Amai Manabilang (Lanao Del Sur),23 January 2023,02:03 AM,Slightly Felt,Amai Manabilang,Lanao Del Sur
+23 January 2023 - 01:57 AM,2.02,126.83,9.0,4.8,406 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),23 January 2023,01:57 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+23 January 2023 - 01:47 AM,17.79,120.73,8.0,3.1,008 km N 18° E of Lagayan (Abra),23 January 2023,01:47 AM,Weak,Lagayan,Abra
+23 January 2023 - 12:38 AM,9.53,125.89,29.0,2.2,013 km S 40° W of Socorro (Surigao Del Norte),23 January 2023,12:38 AM,Slightly Felt,Socorro,Surigao Del Norte
+23 January 2023 - 12:32 AM,11.86,120.74,48.0,2.7,065 km S 33° W of San Jose (Occidental Mindoro),23 January 2023,12:32 AM,Slightly Felt,San Jose,Occidental Mindoro
+22 January 2023 - 11:18 PM,16.96,120.9,1.0,2.1,005 km S 60° E of Bauko (Mountain Province),22 January 2023,11:18 PM,Slightly Felt,Bauko,Mountain Province
+22 January 2023 - 10:07 PM,13.61,121.49,11.0,2.4,026 km S 23° E of San Juan (Batangas),22 January 2023,10:07 PM,Slightly Felt,San Juan,Batangas
+22 January 2023 - 09:49 PM,7.49,122.05,1.0,2.4,015 km S 44° W of Sirawai (Zamboanga Del Norte),22 January 2023,09:49 PM,Slightly Felt,Sirawai,Zamboanga Del Norte
+22 January 2023 - 09:48 PM,19.74,121.23,33.0,3.9,059 km N 26° W of Calayan (Cagayan),22 January 2023,09:48 PM,Weak,Calayan,Cagayan
+22 January 2023 - 09:12 PM,20.14,121.22,27.0,3.3,072 km S 72° W of Sabtang (Batanes),22 January 2023,09:12 PM,Weak,Sabtang,Batanes
+22 January 2023 - 08:07 PM,16.22,120.58,18.0,1.5,009 km N 53° E of Sison (Pangasinan),22 January 2023,08:07 PM,Scarcely Perceptible,Sison,Pangasinan
+22 January 2023 - 06:27 PM,7.7,125.73,1.0,2.2,005 km S 06° E of San Isidro (Davao Del Norte),22 January 2023,06:27 PM,Slightly Felt,San Isidro,Davao Del Norte
+22 January 2023 - 05:38 PM,6.37,126.68,23.0,2.4,074 km S 65° E of Governor Generoso (Davao Oriental),22 January 2023,05:38 PM,Slightly Felt,Governor Generoso,Davao Oriental
+22 January 2023 - 04:55 PM,9.45,126.43,11.0,3.1,033 km N 54° E of Cortes (Surigao Del Sur),22 January 2023,04:55 PM,Weak,Cortes,Surigao Del Sur
+22 January 2023 - 03:54 PM,15.59,121.93,11.0,2.6,043 km S 65° E of Baler (Aurora),22 January 2023,03:54 PM,Slightly Felt,Baler,Aurora
+22 January 2023 - 02:42 PM,3.1,126.79,160.0,4.3,297 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),22 January 2023,02:42 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+22 January 2023 - 01:46 PM,16.8,120.75,34.0,2.0,003 km N 52° E of Bakun (Benguet),22 January 2023,01:46 PM,Slightly Felt,Bakun,Benguet
+22 January 2023 - 01:32 PM,10.52,126.17,24.0,2.5,055 km S 63° E of Homonhon Island (Guiuan) (Eastern Samar),22 January 2023,01:32 PM,Slightly Felt,Homonhon Island,Guiuan
+22 January 2023 - 12:51 PM,20.27,122.12,31.0,3.2,021 km S 69° E of Uyugan (Batanes),22 January 2023,12:51 PM,Weak,Uyugan,Batanes
+22 January 2023 - 10:29 AM,2.76,126.57,1.0,4.1,320 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),22 January 2023,10:29 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+22 January 2023 - 09:19 AM,3.83,126.94,11.0,4.2,243 km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),22 January 2023,09:19 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+22 January 2023 - 09:18 AM,19.09,121.23,11.0,2.0,003 km S 52° E of Dalupiri Island (Calayan) (Cagayan),22 January 2023,09:18 AM,Slightly Felt,Dalupiri Island,Calayan
+22 January 2023 - 07:50 AM,14.46,123.1,1.0,3.5,016 km S 82° E of Tinaga Island (Vinzons) (Camarines Norte),22 January 2023,07:50 AM,Weak,Tinaga Island,Vinzons
+22 January 2023 - 07:21 AM,6.82,126.77,134.0,3.7,043 km S 54° E of Tarragona (Davao Oriental),22 January 2023,07:21 AM,Weak,Tarragona,Davao Oriental
+22 January 2023 - 07:07 AM,6.63,126.37,50.0,2.7,033 km S 86° E of Governor Generoso (Davao Oriental),22 January 2023,07:07 AM,Slightly Felt,Governor Generoso,Davao Oriental
+22 January 2023 - 05:56 AM,13.63,120.64,116.0,1.9,022 km S 03° E of Calatagan (Batangas),22 January 2023,05:56 AM,Scarcely Perceptible,Calatagan,Batangas
+22 January 2023 - 05:13 AM,12.81,120.61,12.0,2.3,019 km S 79° W of Sablayan (Occidental Mindoro),22 January 2023,05:13 AM,Slightly Felt,Sablayan,Occidental Mindoro
+22 January 2023 - 04:06 AM,2.95,126.67,31.0,5.2,304 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),22 January 2023,04:06 AM,Strong,Balut Island,Municipality Of Sarangani
+22 January 2023 - 04:01 AM,14.77,118.92,14.0,3.2,128 km S 81° W of San Antonio (Zambales),22 January 2023,04:01 AM,Weak,San Antonio,Zambales
+22 January 2023 - 03:02 AM,17.57,120.21,25.0,1.9,017 km S 84° W of Santa Catalina (Ilocos Sur),22 January 2023,03:02 AM,Scarcely Perceptible,Santa Catalina,Ilocos Sur
+22 January 2023 - 02:43 AM,17.17,121.46,23.0,2.2,006 km S 76° E of Paracelis (Mountain Province),22 January 2023,02:43 AM,Slightly Felt,Paracelis,Mountain Province
+22 January 2023 - 02:39 AM,13.06,121.07,6.0,2.3,026 km S 61° W of Victoria (Oriental Mindoro),22 January 2023,02:39 AM,Slightly Felt,Victoria,Oriental Mindoro
+22 January 2023 - 02:38 AM,13.04,121.11,6.0,2.5,024 km S 52° W of Victoria (Oriental Mindoro),22 January 2023,02:38 AM,Slightly Felt,Victoria,Oriental Mindoro
+22 January 2023 - 02:11 AM,14.22,123.04,1.0,2.3,013 km N 17° E of Mercedes (Camarines Norte),22 January 2023,02:11 AM,Slightly Felt,Mercedes,Camarines Norte
+22 January 2023 - 01:43 AM,2.65,126.57,2.0,4.2,331 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),22 January 2023,01:43 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+22 January 2023 - 01:24 AM,2.9,126.87,15.0,3.9,321 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),22 January 2023,01:24 AM,Weak,Balut Island,Municipality Of Sarangani
+22 January 2023 - 01:00 AM,8.9,126.3,38.0,3.5,002 km S 08° W of Cagwait (Surigao Del Sur),22 January 2023,01:00 AM,Weak,Cagwait,Surigao Del Sur
+22 January 2023 - 12:02 AM,8.91,125.64,1.0,3.0,011 km N 27° W of Sibagat (Agusan Del Sur),22 January 2023,12:02 AM,Weak,Sibagat,Agusan Del Sur
+21 January 2023 - 11:02 PM,2.68,126.83,89.0,4.4,340 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,11:02 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+21 January 2023 - 10:59 PM,5.91,126.06,53.0,4.2,051 km S 52° E of Don Marcelino (Davao Occidental),21 January 2023,10:59 PM,Moderately Strong,Don Marcelino,Davao Occidental
+21 January 2023 - 09:58 PM,6.01,126.68,74.0,2.7,098 km S 43° E of Governor Generoso (Davao Oriental),21 January 2023,09:58 PM,Slightly Felt,Governor Generoso,Davao Oriental
+21 January 2023 - 09:16 PM,13.63,120.67,87.0,1.4,022 km S 11° E of Calatagan (Batangas),21 January 2023,09:16 PM,Scarcely Perceptible,Calatagan,Batangas
+21 January 2023 - 08:44 PM,4.03,128.86,6.0,4.2,409 km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,08:44 PM,Moderately Strong,Sarangani Island,Municipality Of Sarangani
+21 January 2023 - 08:09 PM,7.01,124.99,9.0,2.7,011 km N 87° W of City Of Kidapawan (Cotabato),21 January 2023,08:09 PM,Slightly Felt,City Of Kidapawan,Cotabato
+21 January 2023 - 07:58 PM,13.69,120.64,106.0,1.8,016 km S 02° E of Calatagan (Batangas),21 January 2023,07:58 PM,Scarcely Perceptible,Calatagan,Batangas
+21 January 2023 - 07:57 PM,9.39,126.17,22.0,4.5,013 km N 10° W of Cortes (Surigao Del Sur),21 January 2023,07:57 PM,Moderately Strong,Cortes,Surigao Del Sur
+21 January 2023 - 07:49 PM,2.35,126.89,1.0,4.0,375 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,07:49 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+21 January 2023 - 06:11 PM,9.69,126.14,18.0,2.3,011 km S 08° W of General Luna (Surigao Del Norte),21 January 2023,06:11 PM,Slightly Felt,General Luna,Surigao Del Norte
+21 January 2023 - 05:24 PM,2.15,126.94,7.0,3.9,399 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,05:24 PM,Weak,Balut Island,Municipality Of Sarangani
+21 January 2023 - 04:29 PM,18.75,121.07,22.0,2.4,016 km N 05° W of Claveria (Cagayan),21 January 2023,04:29 PM,Slightly Felt,Claveria,Cagayan
+21 January 2023 - 03:49 PM,12.8,124.93,15.0,3.6,027 km N 19° W of Laoang (Northern Samar),21 January 2023,03:49 PM,Weak,Laoang,Northern Samar
+21 January 2023 - 03:30 PM,16.56,120.82,5.0,1.8,007 km N 08° W of Bokod (Benguet),21 January 2023,03:30 PM,Scarcely Perceptible,Bokod,Benguet
+21 January 2023 - 02:29 PM,8.32,126.65,19.0,2.2,035 km S 82° E of Hinatuan (Surigao Del Sur),21 January 2023,02:29 PM,Slightly Felt,Hinatuan,Surigao Del Sur
+21 January 2023 - 11:58 AM,2.84,126.76,29.0,4.4,321 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,11:58 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+21 January 2023 - 07:57 AM,9.67,126.08,14.0,2.2,015 km S 36° W of General Luna (Surigao Del Norte),21 January 2023,07:57 AM,Slightly Felt,General Luna,Surigao Del Norte
+21 January 2023 - 07:37 AM,9.67,126.11,10.0,2.2,013 km S 22° W of General Luna (Surigao Del Norte),21 January 2023,07:37 AM,Slightly Felt,General Luna,Surigao Del Norte
+21 January 2023 - 07:03 AM,17.46,120.42,73.0,3.5,004 km S 27° W of Santa (Ilocos Sur),21 January 2023,07:03 AM,Weak,Santa,Ilocos Sur
+21 January 2023 - 06:48 AM,17.78,122.62,31.0,2.4,059 km N 43° E of Maconacon (Isabela),21 January 2023,06:48 AM,Slightly Felt,Maconacon,Isabela
+21 January 2023 - 04:02 AM,13.97,120.31,53.0,1.8,024 km N 59° E of Lubang (Occidental Mindoro),21 January 2023,04:02 AM,Scarcely Perceptible,Lubang,Occidental Mindoro
+21 January 2023 - 03:04 AM,2.66,126.57,22.0,4.3,330 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,03:04 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+21 January 2023 - 01:49 AM,2.73,126.74,3.0,4.6,330 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),21 January 2023,01:49 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+21 January 2023 - 12:48 AM,14.43,123.04,1.0,3.4,011 km S 61° E of Tinaga Island (Vinzons) (Camarines Norte),21 January 2023,12:48 AM,Weak,Tinaga Island,Vinzons
+20 January 2023 - 11:54 PM,17.3,120.12,7.0,2.3,039 km S 46° W of Caoayan (Ilocos Sur),20 January 2023,11:54 PM,Slightly Felt,Caoayan,Ilocos Sur
+20 January 2023 - 11:17 PM,13.58,120.41,35.0,1.5,023 km S 49° E of Looc (Occidental Mindoro),20 January 2023,11:17 PM,Scarcely Perceptible,Looc,Occidental Mindoro
+20 January 2023 - 10:33 PM,10.72,125.77,41.0,3.3,006 km S 64° E of Homonhon Island (Guiuan) (Eastern Samar),20 January 2023,10:33 PM,Weak,Homonhon Island,Guiuan
+20 January 2023 - 10:17 PM,15.83,119.18,57.0,3.1,073 km S 65° W of Agno (Pangasinan),20 January 2023,10:17 PM,Weak,Agno,Pangasinan
+20 January 2023 - 10:11 PM,9.02,126.27,25.0,2.1,004 km N 88° E of Tago (Surigao Del Sur),20 January 2023,10:11 PM,Slightly Felt,Tago,Surigao Del Sur
+20 January 2023 - 07:54 PM,12.4,121.21,98.0,2.2,012 km N 34° E of Magsaysay (Occidental Mindoro),20 January 2023,07:54 PM,Slightly Felt,Magsaysay,Occidental Mindoro
+20 January 2023 - 07:17 PM,18.83,121.09,48.0,3.3,025 km N 02° E of Claveria (Cagayan),20 January 2023,07:17 PM,Weak,Claveria,Cagayan
+20 January 2023 - 06:40 PM,3.0,126.72,85.0,4.4,303 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),20 January 2023,06:40 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+20 January 2023 - 06:35 PM,6.52,124.1,12.0,3.8,007 km S 57° E of Kalamansig (Sultan Kudarat),20 January 2023,06:35 PM,Weak,Kalamansig,Sultan Kudarat
+20 January 2023 - 06:07 PM,10.21,125.38,16.0,2.4,015 km S 62° E of Anahawan (Southern Leyte),20 January 2023,06:07 PM,Slightly Felt,Anahawan,Southern Leyte
+20 January 2023 - 05:53 PM,14.45,123.05,1.0,2.8,012 km S 78° E of Tinaga Island (Vinzons) (Camarines Norte),20 January 2023,05:53 PM,Slightly Felt,Tinaga Island,Vinzons
+20 January 2023 - 04:58 PM,3.84,128.8,281.0,4.5,411 km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),20 January 2023,04:58 PM,Moderately Strong,Sarangani Island,Municipality Of Sarangani
+20 January 2023 - 04:45 PM,4.74,127.36,29.0,3.8,224 km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),20 January 2023,04:45 PM,Weak,Sarangani Island,Municipality Of Sarangani
+20 January 2023 - 04:08 PM,7.92,124.05,7.0,2.4,007 km N 02° W of Madamba (Lanao Del Sur),20 January 2023,04:08 PM,Slightly Felt,Madamba,Lanao Del Sur
+20 January 2023 - 04:06 PM,7.91,124.02,1.0,2.1,007 km N 28° W of Madamba (Lanao Del Sur),20 January 2023,04:06 PM,Slightly Felt,Madamba,Lanao Del Sur
+20 January 2023 - 01:20 PM,7.43,126.63,113.0,2.9,013 km N 32° E of Caraga (Davao Oriental),20 January 2023,01:20 PM,Slightly Felt,Caraga,Davao Oriental
+20 January 2023 - 01:14 PM,14.43,123.06,1.0,2.5,014 km S 66° E of Tinaga Island (Vinzons) (Camarines Norte),20 January 2023,01:14 PM,Slightly Felt,Tinaga Island,Vinzons
+20 January 2023 - 12:57 PM,17.8,120.74,3.0,2.8,010 km N 24° E of Lagayan (Abra),20 January 2023,12:57 PM,Slightly Felt,Lagayan,Abra
+20 January 2023 - 12:42 PM,18.92,120.74,1.0,2.6,040 km N 07° W of Pagudpud (Ilocos Norte),20 January 2023,12:42 PM,Slightly Felt,Pagudpud,Ilocos Norte
+20 January 2023 - 12:38 PM,18.39,119.45,14.0,2.5,118 km N 70° W of Currimao (Ilocos Norte),20 January 2023,12:38 PM,Slightly Felt,Currimao,Ilocos Norte
+20 January 2023 - 10:55 AM,14.47,123.1,1.0,3.2,017 km S 88° E of Tinaga Island (Vinzons) (Camarines Norte),20 January 2023,10:55 AM,Weak,Tinaga Island,Vinzons
+20 January 2023 - 10:51 AM,17.7,120.5,7.0,2.4,007 km S 42° E of San Juan (Ilocos Sur),20 January 2023,10:51 AM,Slightly Felt,San Juan,Ilocos Sur
+20 January 2023 - 08:40 AM,14.46,123.09,1.0,2.9,015 km S 84° E of Tinaga Island (Vinzons) (Camarines Norte),20 January 2023,08:40 AM,Slightly Felt,Tinaga Island,Vinzons
+20 January 2023 - 08:11 AM,6.75,126.77,114.0,2.1,049 km S 47° E of Tarragona (Davao Oriental),20 January 2023,08:11 AM,Slightly Felt,Tarragona,Davao Oriental
+20 January 2023 - 08:08 AM,13.61,123.27,23.0,2.2,006 km N 02° W of Pili (Camarines Sur),20 January 2023,08:08 AM,Slightly Felt,Pili,Camarines Sur
+20 January 2023 - 07:55 AM,13.63,120.62,79.0,2.2,022 km S 04° W of Calatagan (Batangas),20 January 2023,07:55 AM,Slightly Felt,Calatagan,Batangas
+20 January 2023 - 06:38 AM,6.4,126.09,2.0,2.3,028 km S 03° E of Governor Generoso (Davao Oriental),20 January 2023,06:38 AM,Slightly Felt,Governor Generoso,Davao Oriental
+20 January 2023 - 06:07 AM,8.35,121.88,9.0,2.9,067 km N 26° W of Baliguian (Zamboanga Del Norte),20 January 2023,06:07 AM,Slightly Felt,Baliguian,Zamboanga Del Norte
+20 January 2023 - 05:45 AM,6.92,123.77,604.0,3.5,032 km S 59° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),20 January 2023,05:45 AM,Weak,Datu Blah T. Sinsuat,Maguindanao Del Norte
+20 January 2023 - 05:20 AM,6.52,126.55,25.0,2.3,054 km S 74° E of Governor Generoso (Davao Oriental),20 January 2023,05:20 AM,Slightly Felt,Governor Generoso,Davao Oriental
+20 January 2023 - 05:16 AM,13.66,120.62,185.0,2.1,019 km S 05° W of Calatagan (Batangas),20 January 2023,05:16 AM,Slightly Felt,Calatagan,Batangas
+20 January 2023 - 05:15 AM,10.17,126.59,3.0,2.5,059 km N 73° E of Burgos (Surigao Del Norte),20 January 2023,05:15 AM,Slightly Felt,Burgos,Surigao Del Norte
+20 January 2023 - 05:00 AM,2.83,126.49,142.0,4.2,309 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),20 January 2023,05:00 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+20 January 2023 - 04:08 AM,10.13,126.41,10.0,3.0,039 km N 72° E of Burgos (Surigao Del Norte),20 January 2023,04:08 AM,Weak,Burgos,Surigao Del Norte
+20 January 2023 - 03:59 AM,10.12,126.45,3.0,2.8,043 km N 74° E of Burgos (Surigao Del Norte),20 January 2023,03:59 AM,Slightly Felt,Burgos,Surigao Del Norte
+20 January 2023 - 03:19 AM,9.68,126.7,1.0,2.3,061 km S 79° E of General Luna (Surigao Del Norte),20 January 2023,03:19 AM,Slightly Felt,General Luna,Surigao Del Norte
+20 January 2023 - 02:55 AM,15.1,119.93,24.0,2.0,015 km S 62° W of Cabangan (Zambales),20 January 2023,02:55 AM,Slightly Felt,Cabangan,Zambales
+20 January 2023 - 02:51 AM,2.73,126.67,93.0,4.6,327 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),20 January 2023,02:51 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+20 January 2023 - 02:18 AM,7.72,124.83,10.0,1.8,010 km S 78° E of Kalilangan (Bukidnon),20 January 2023,02:18 AM,Scarcely Perceptible,Kalilangan,Bukidnon
+20 January 2023 - 01:54 AM,16.89,120.24,5.0,2.2,015 km N 74° W of Luna (La Union),20 January 2023,01:54 AM,Slightly Felt,Luna,La Union
+20 January 2023 - 01:51 AM,2.82,126.76,158.0,4.8,323 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),20 January 2023,01:51 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+20 January 2023 - 01:27 AM,13.41,119.88,8.0,1.7,053 km S 50° W of Looc (Occidental Mindoro),20 January 2023,01:27 AM,Scarcely Perceptible,Looc,Occidental Mindoro
+20 January 2023 - 12:58 AM,14.26,120.42,122.0,2.0,021 km S 22° W of Mariveles (Bataan),20 January 2023,12:58 AM,Slightly Felt,Mariveles,Bataan
+20 January 2023 - 12:03 AM,18.86,121.05,7.0,2.8,032 km S 31° W of Dalupiri Island (Calayan) (Cagayan),20 January 2023,12:03 AM,Slightly Felt,Dalupiri Island,Calayan
+19 January 2023 - 11:54 PM,10.17,125.78,20.0,1.6,023 km N 61° E of Basilisa (Dinagat Islands),19 January 2023,11:54 PM,Scarcely Perceptible,Basilisa,Dinagat Islands
+19 January 2023 - 11:30 PM,13.64,120.57,92.0,1.6,023 km S 18° W of Calatagan (Batangas),19 January 2023,11:30 PM,Scarcely Perceptible,Calatagan,Batangas
+19 January 2023 - 11:15 PM,16.82,119.96,14.0,2.5,044 km N 75° W of Bacnotan (La Union),19 January 2023,11:15 PM,Slightly Felt,Bacnotan,La Union
+19 January 2023 - 10:44 PM,11.34,124.51,6.0,3.2,004 km S 36° E of Leyte (Leyte),19 January 2023,10:44 PM,Weak,Leyte,Leyte
+19 January 2023 - 10:29 PM,4.73,126.34,64.0,3.7,126 km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,10:29 PM,Weak,Balut Island,Municipality Of Sarangani
+19 January 2023 - 10:00 PM,6.46,126.13,36.0,3.2,023 km S 16° E of Governor Generoso (Davao Oriental),19 January 2023,10:00 PM,Weak,Governor Generoso,Davao Oriental
+19 January 2023 - 09:00 PM,3.09,126.79,75.0,4.4,298 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,09:00 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+19 January 2023 - 08:45 PM,11.53,125.6,22.0,2.3,011 km N 72° E of Maydolong (Eastern Samar),19 January 2023,08:45 PM,Slightly Felt,Maydolong,Eastern Samar
+19 January 2023 - 08:29 PM,2.42,126.62,30.0,4.3,356 km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,08:29 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+19 January 2023 - 07:58 PM,8.97,126.13,33.0,3.3,010 km N 77° E of San Miguel (Surigao Del Sur),19 January 2023,07:58 PM,Weak,San Miguel,Surigao Del Sur
+19 January 2023 - 07:01 PM,9.39,126.01,1.0,2.8,007 km N 32° E of Cantilan (Surigao Del Sur),19 January 2023,07:01 PM,Slightly Felt,Cantilan,Surigao Del Sur
+19 January 2023 - 06:14 PM,10.14,126.38,15.0,2.8,036 km N 68° E of Burgos (Surigao Del Norte),19 January 2023,06:14 PM,Slightly Felt,Burgos,Surigao Del Norte
+19 January 2023 - 05:14 PM,6.06,125.87,113.0,4.5,025 km S 52° E of Don Marcelino (Davao Occidental),19 January 2023,05:14 PM,Moderately Strong,Don Marcelino,Davao Occidental
+19 January 2023 - 04:30 PM,5.35,125.29,36.0,3.0,016 km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,04:30 PM,Weak,Balut Island,Municipality Of Sarangani
+19 January 2023 - 01:33 PM,12.74,124.85,57.0,3.5,022 km N 22° W of Pambujan (Northern Samar),19 January 2023,01:33 PM,Weak,Pambujan,Northern Samar
+19 January 2023 - 12:40 PM,9.75,124.57,1.0,2.0,001 km N 68° W of Anda (Bohol),19 January 2023,12:40 PM,Slightly Felt,Anda,Bohol
+19 January 2023 - 11:49 AM,6.07,125.77,49.0,1.8,016 km S 32° E of Don Marcelino (Davao Occidental),19 January 2023,11:49 AM,Scarcely Perceptible,Don Marcelino,Davao Occidental
+19 January 2023 - 11:00 AM,9.06,122.71,10.0,3.0,035 km S 29° W of Santa Catalina (Negros Oriental),19 January 2023,11:00 AM,Weak,Santa Catalina,Negros Oriental
+19 January 2023 - 09:32 AM,13.39,120.59,4.0,1.9,014 km S 76° E of Paluan (Occidental Mindoro),19 January 2023,09:32 AM,Scarcely Perceptible,Paluan,Occidental Mindoro
+19 January 2023 - 09:15 AM,13.73,120.57,69.0,2.0,013 km S 30° W of Calatagan (Batangas),19 January 2023,09:15 AM,Slightly Felt,Calatagan,Batangas
+19 January 2023 - 08:40 AM,15.21,121.17,35.0,1.4,020 km S 42° E of General Tinio (Nueva Ecija),19 January 2023,08:40 AM,Scarcely Perceptible,General Tinio,Nueva Ecija
+19 January 2023 - 08:22 AM,9.98,124.12,20.0,1.8,008 km S 47° E of Inabanga (Bohol),19 January 2023,08:22 AM,Scarcely Perceptible,Inabanga,Bohol
+19 January 2023 - 07:32 AM,13.5,120.59,27.0,1.5,017 km N 55° E of Paluan (Occidental Mindoro),19 January 2023,07:32 AM,Scarcely Perceptible,Paluan,Occidental Mindoro
+19 January 2023 - 05:37 AM,17.8,122.59,28.0,3.0,059 km N 39° E of Maconacon (Isabela),19 January 2023,05:37 AM,Weak,Maconacon,Isabela
+19 January 2023 - 04:57 AM,2.5,126.63,32.0,4.3,349 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,04:57 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+19 January 2023 - 04:55 AM,13.18,121.43,32.0,1.6,004 km N 15° W of Pola (Oriental Mindoro),19 January 2023,04:55 AM,Scarcely Perceptible,Pola,Oriental Mindoro
+19 January 2023 - 04:03 AM,18.05,121.68,19.0,1.8,004 km S 72° E of Gattaran (Cagayan),19 January 2023,04:03 AM,Scarcely Perceptible,Gattaran,Cagayan
+19 January 2023 - 03:58 AM,9.37,126.55,9.0,2.7,040 km N 75° E of Cortes (Surigao Del Sur),19 January 2023,03:58 AM,Slightly Felt,Cortes,Surigao Del Sur
+19 January 2023 - 03:54 AM,2.12,127.21,91.0,4.2,415 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,03:54 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+19 January 2023 - 03:03 AM,9.72,125.51,29.0,2.6,007 km N 16° W of Sison (Surigao Del Norte),19 January 2023,03:03 AM,Slightly Felt,Sison,Surigao Del Norte
+19 January 2023 - 02:55 AM,2.55,126.45,23.0,4.5,336 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,02:55 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+19 January 2023 - 02:15 AM,2.38,126.75,15.0,3.8,380 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),19 January 2023,02:15 AM,Weak,Balut Island,Municipality Of Sarangani
+19 January 2023 - 01:14 AM,9.97,126.07,27.0,2.6,006 km South of Burgos (Surigao Del Norte),19 January 2023,01:14 AM,Slightly Felt,Burgos,Surigao Del Norte
+19 January 2023 - 12:28 AM,12.5,123.59,7.0,4.2,010 km N 74° E of Baleno (Masbate),19 January 2023,12:28 AM,Moderately Strong,Baleno,Masbate
+19 January 2023 - 12:15 AM,13.31,121.76,7.0,3.0,009 km S 80° W of Gasan (Marinduque),19 January 2023,12:15 AM,Weak,Gasan,Marinduque
+18 January 2023 - 11:43 PM,2.33,127.09,68.0,4.5,388 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,11:43 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+18 January 2023 - 11:29 PM,6.64,125.21,20.0,2.4,006 km N 72° W of Kiblawan (Davao Del Sur),18 January 2023,11:29 PM,Slightly Felt,Kiblawan,Davao Del Sur
+18 January 2023 - 11:14 PM,2.91,126.87,142.0,4.6,320 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,11:14 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+18 January 2023 - 11:03 PM,2.63,126.95,28.0,3.9,352 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,11:03 PM,Weak,Balut Island,Municipality Of Sarangani
+18 January 2023 - 11:01 PM,10.99,125.58,32.0,3.2,016 km S 74° W of Guiuan (Eastern Samar),18 January 2023,11:01 PM,Weak,Guiuan,Eastern Samar
+18 January 2023 - 10:38 PM,8.88,125.74,35.0,1.5,009 km N 39° E of Sibagat (Agusan Del Sur),18 January 2023,10:38 PM,Scarcely Perceptible,Sibagat,Agusan Del Sur
+18 January 2023 - 10:33 PM,17.45,120.61,22.0,2.0,002 km S 19° E of San Isidro (Abra),18 January 2023,10:33 PM,Slightly Felt,San Isidro,Abra
+18 January 2023 - 10:21 PM,2.95,126.71,106.0,4.4,308 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,10:21 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+18 January 2023 - 10:04 PM,3.44,126.48,77.0,3.7,248 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,10:04 PM,Weak,Balut Island,Municipality Of Sarangani
+18 January 2023 - 09:04 PM,8.95,126.56,20.0,2.4,029 km N 83° E of Cagwait (Surigao Del Sur),18 January 2023,09:04 PM,Slightly Felt,Cagwait,Surigao Del Sur
+18 January 2023 - 08:14 PM,10.61,125.3,189.0,2.5,018 km N 59° E of Silago (Southern Leyte),18 January 2023,08:14 PM,Slightly Felt,Silago,Southern Leyte
+18 January 2023 - 07:38 PM,12.48,123.58,6.0,2.7,012 km N 21° W of City Of Masbate (Masbate),18 January 2023,07:38 PM,Slightly Felt,City Of Masbate,Masbate
+18 January 2023 - 05:39 PM,2.93,126.73,103.0,4.4,310 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,05:39 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+18 January 2023 - 04:01 PM,2.2,127.31,62.0,5.4,412 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,04:01 PM,Strong,Balut Island,Municipality Of Sarangani
+18 January 2023 - 03:38 PM,9.72,122.43,9.0,2.8,005 km S 02° E of City Of Sipalay (Negros Occidental),18 January 2023,03:38 PM,Slightly Felt,City Of Sipalay,Negros Occidental
+18 January 2023 - 03:00 PM,2.87,126.67,57.0,4.9,314 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,03:00 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+18 January 2023 - 02:06 PM,2.86,127.04,15.0,7.0,335 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),18 January 2023,02:06 PM,Destructive,Balut Island,Municipality Of Sarangani
+18 January 2023 - 01:00 PM,14.42,123.08,1.0,4.4,015 km S 65° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,01:00 PM,Moderately Strong,Tinaga Island,Vinzons
+18 January 2023 - 12:51 PM,14.43,123.03,1.0,4.5,010 km S 60° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,12:51 PM,Moderately Strong,Tinaga Island,Vinzons
+18 January 2023 - 11:43 AM,9.79,123.94,8.0,2.2,004 km N 79° E of Antequera (Bohol),18 January 2023,11:43 AM,Slightly Felt,Antequera,Bohol
+18 January 2023 - 10:45 AM,14.41,123.07,1.0,2.8,015 km S 63° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,10:45 AM,Slightly Felt,Tinaga Island,Vinzons
+18 January 2023 - 10:32 AM,14.46,123.04,1.0,2.8,010 km S 77° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,10:32 AM,Slightly Felt,Tinaga Island,Vinzons
+18 January 2023 - 09:39 AM,14.4,123.02,1.0,3.3,012 km S 53° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,09:39 AM,Weak,Tinaga Island,Vinzons
+18 January 2023 - 08:58 AM,14.16,123.11,7.0,1.9,012 km N 65° E of Mercedes (Camarines Norte),18 January 2023,08:58 AM,Scarcely Perceptible,Mercedes,Camarines Norte
+18 January 2023 - 08:56 AM,14.45,123.05,1.0,4.1,011 km S 74° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,08:56 AM,Moderately Strong,Tinaga Island,Vinzons
+18 January 2023 - 07:59 AM,10.77,124.55,7.0,2.6,004 km S 26° W of Pilar (Cebu),18 January 2023,07:59 AM,Slightly Felt,Pilar,Cebu
+18 January 2023 - 07:41 AM,6.69,123.9,1.0,2.0,019 km N 76° W of Lebak (Sultan Kudarat),18 January 2023,07:41 AM,Slightly Felt,Lebak,Sultan Kudarat
+18 January 2023 - 06:50 AM,14.31,123.02,6.0,1.8,019 km N 39° E of Vinzons (Camarines Norte),18 January 2023,06:50 AM,Scarcely Perceptible,Vinzons,Camarines Norte
+18 January 2023 - 06:18 AM,9.44,122.49,1.0,2.1,017 km N 79° W of Basay (Negros Oriental),18 January 2023,06:18 AM,Slightly Felt,Basay,Negros Oriental
+18 January 2023 - 06:12 AM,9.43,126.11,22.0,2.4,018 km N 54° E of Cantilan (Surigao Del Sur),18 January 2023,06:12 AM,Slightly Felt,Cantilan,Surigao Del Sur
+18 January 2023 - 06:05 AM,6.21,126.34,131.0,4.0,057 km S 31° E of Governor Generoso (Davao Oriental),18 January 2023,06:05 AM,Moderately Strong,Governor Generoso,Davao Oriental
+18 January 2023 - 06:02 AM,6.41,126.32,31.0,3.0,038 km S 46° E of Governor Generoso (Davao Oriental),18 January 2023,06:02 AM,Weak,Governor Generoso,Davao Oriental
+18 January 2023 - 04:07 AM,16.05,119.0,2.0,3.5,086 km S 85° W of Agno (Pangasinan),18 January 2023,04:07 AM,Weak,Agno,Pangasinan
+18 January 2023 - 04:02 AM,14.43,123.04,1.0,2.7,011 km S 64° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,04:02 AM,Slightly Felt,Tinaga Island,Vinzons
+18 January 2023 - 03:53 AM,5.84,124.79,22.0,2.6,025 km S 48° E of Kiamba (Sarangani),18 January 2023,03:53 AM,Slightly Felt,Kiamba,Sarangani
+18 January 2023 - 03:33 AM,11.44,125.71,3.0,2.6,023 km S 73° E of Maydolong (Eastern Samar),18 January 2023,03:33 AM,Slightly Felt,Maydolong,Eastern Samar
+18 January 2023 - 03:23 AM,9.54,122.48,38.0,2.3,007 km S 15° E of Hinoba-an (Negros Occidental),18 January 2023,03:23 AM,Slightly Felt,Hinoba-an,Negros Occidental
+18 January 2023 - 03:07 AM,14.44,123.08,1.0,3.3,015 km S 74° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,03:07 AM,Weak,Tinaga Island,Vinzons
+18 January 2023 - 03:01 AM,9.94,126.02,33.0,1.8,003 km S 31° E of San Benito (Surigao Del Norte),18 January 2023,03:01 AM,Scarcely Perceptible,San Benito,Surigao Del Norte
+18 January 2023 - 02:53 AM,14.44,123.06,1.0,3.6,013 km S 73° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,02:53 AM,Weak,Tinaga Island,Vinzons
+18 January 2023 - 02:39 AM,14.46,123.05,1.0,4.4,011 km S 81° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,02:39 AM,Moderately Strong,Tinaga Island,Vinzons
+18 January 2023 - 02:30 AM,10.0,125.98,32.0,1.7,005 km N 32° W of San Benito (Surigao Del Norte),18 January 2023,02:30 AM,Scarcely Perceptible,San Benito,Surigao Del Norte
+18 January 2023 - 12:59 AM,9.4,122.57,26.0,2.9,008 km S 86° W of Basay (Negros Oriental),18 January 2023,12:59 AM,Slightly Felt,Basay,Negros Oriental
+18 January 2023 - 12:32 AM,16.84,120.13,20.0,2.0,027 km S 87° W of Luna (La Union),18 January 2023,12:32 AM,Slightly Felt,Luna,La Union
+18 January 2023 - 12:21 AM,14.42,123.04,1.0,3.0,012 km S 60° E of Tinaga Island (Vinzons) (Camarines Norte),18 January 2023,12:21 AM,Weak,Tinaga Island,Vinzons
+17 January 2023 - 11:05 PM,7.74,125.0,35.0,1.8,005 km S 21° W of Maramag (Bukidnon),17 January 2023,11:05 PM,Scarcely Perceptible,Maramag,Bukidnon
+17 January 2023 - 11:03 PM,6.68,125.21,1.0,1.9,003 km S 11° W of Matanao (Davao Del Sur),17 January 2023,11:03 PM,Scarcely Perceptible,Matanao,Davao Del Sur
+17 January 2023 - 10:38 PM,10.14,123.54,5.0,2.6,004 km N 50° E of Barili (Cebu),17 January 2023,10:38 PM,Slightly Felt,Barili,Cebu
+17 January 2023 - 10:28 PM,8.73,123.7,10.0,2.0,012 km N 07° W of Plaridel (Misamis Occidental),17 January 2023,10:28 PM,Slightly Felt,Plaridel,Misamis Occidental
+17 January 2023 - 10:08 PM,13.55,120.65,100.0,2.1,015 km N 36° W of Abra De Ilog (Occidental Mindoro),17 January 2023,10:08 PM,Slightly Felt,Abra De Ilog,Occidental Mindoro
+17 January 2023 - 09:58 PM,13.65,120.69,104.0,1.7,021 km S 17° E of Calatagan (Batangas),17 January 2023,09:58 PM,Scarcely Perceptible,Calatagan,Batangas
+17 January 2023 - 09:38 PM,16.18,120.13,1.0,2.4,013 km N 17° E of Sual (Pangasinan),17 January 2023,09:38 PM,Slightly Felt,Sual,Pangasinan
+17 January 2023 - 09:30 PM,19.89,121.88,9.0,2.6,049 km S 01° E of Sabtang (Batanes),17 January 2023,09:30 PM,Slightly Felt,Sabtang,Batanes
+17 January 2023 - 08:53 PM,10.13,123.12,36.0,2.2,017 km N 87° W of City Of Guihulngan (Negros Oriental),17 January 2023,08:53 PM,Slightly Felt,City Of Guihulngan,Negros Oriental
+17 January 2023 - 08:48 PM,10.07,123.28,17.0,1.7,006 km S 11° E of City Of Guihulngan (Negros Oriental),17 January 2023,08:48 PM,Scarcely Perceptible,City Of Guihulngan,Negros Oriental
+17 January 2023 - 08:46 PM,19.77,119.63,18.0,1.9,176 km N 38° W of Burgos (Ilocos Norte),17 January 2023,08:46 PM,Scarcely Perceptible,Burgos,Ilocos Norte
+17 January 2023 - 07:41 PM,13.95,120.49,101.0,2.5,020 km N 50° W of Calatagan (Batangas),17 January 2023,07:41 PM,Slightly Felt,Calatagan,Batangas
+17 January 2023 - 06:48 PM,7.17,125.51,14.0,2.5,022 km S 56° W of City Of Panabo (Davao Del Norte),17 January 2023,06:48 PM,Slightly Felt,City Of Panabo,Davao Del Norte
+17 January 2023 - 05:55 PM,7.06,126.96,6.0,3.5,050 km S 70° E of Manay (Davao Oriental),17 January 2023,05:55 PM,Weak,Manay,Davao Oriental
+17 January 2023 - 05:36 PM,18.68,120.35,15.0,3.0,037 km N 60° W of Burgos (Ilocos Norte),17 January 2023,05:36 PM,Weak,Burgos,Ilocos Norte
+17 January 2023 - 03:18 PM,16.07,119.78,11.0,2.5,005 km S 30° W of Agno (Pangasinan),17 January 2023,03:18 PM,Slightly Felt,Agno,Pangasinan
+17 January 2023 - 01:06 PM,9.81,125.44,32.0,2.0,004 km N 32° E of San Francisco (Surigao Del Norte),17 January 2023,01:06 PM,Slightly Felt,San Francisco,Surigao Del Norte
+17 January 2023 - 12:25 PM,6.75,126.33,21.0,2.2,025 km S 30° E of City Of Mati (Davao Oriental),17 January 2023,12:25 PM,Slightly Felt,City Of Mati,Davao Oriental
+17 January 2023 - 11:35 AM,17.39,121.52,19.0,2.6,010 km S 33° E of City Of Tabuk (Kalinga),17 January 2023,11:35 AM,Slightly Felt,City Of Tabuk,Kalinga
+17 January 2023 - 11:01 AM,9.28,125.59,10.0,3.2,004 km N 63° E of Santiago (Agusan Del Norte),17 January 2023,11:01 AM,Weak,Santiago,Agusan Del Norte
+17 January 2023 - 10:20 AM,11.28,124.52,5.0,2.6,011 km S 22° E of Leyte (Leyte),17 January 2023,10:20 AM,Slightly Felt,Leyte,Leyte
+17 January 2023 - 10:19 AM,10.99,124.58,14.0,2.1,010 km N 27° E of Merida (Leyte),17 January 2023,10:19 AM,Slightly Felt,Merida,Leyte
+17 January 2023 - 10:09 AM,11.31,124.54,7.0,2.6,009 km S 40° E of Leyte (Leyte),17 January 2023,10:09 AM,Slightly Felt,Leyte,Leyte
+17 January 2023 - 08:00 AM,14.0,120.46,101.0,2.6,020 km S 66° W of Nasugbu (Batangas),17 January 2023,08:00 AM,Slightly Felt,Nasugbu,Batangas
+17 January 2023 - 07:42 AM,6.27,126.0,55.0,2.6,043 km S 10° W of Governor Generoso (Davao Oriental),17 January 2023,07:42 AM,Slightly Felt,Governor Generoso,Davao Oriental
+17 January 2023 - 07:00 AM,14.43,123.06,1.0,2.9,013 km S 66° E of Tinaga Island (Vinzons) (Camarines Norte),17 January 2023,07:00 AM,Slightly Felt,Tinaga Island,Vinzons
+17 January 2023 - 06:30 AM,14.42,123.11,1.0,2.1,018 km S 71° E of Tinaga Island (Vinzons) (Camarines Norte),17 January 2023,06:30 AM,Slightly Felt,Tinaga Island,Vinzons
+17 January 2023 - 05:57 AM,14.46,123.08,1.0,4.8,014 km S 83° E of Tinaga Island (Vinzons) (Camarines Norte),17 January 2023,05:57 AM,Moderately Strong,Tinaga Island,Vinzons
+17 January 2023 - 05:42 AM,18.64,120.69,16.0,3.4,014 km N 50° W of Pagudpud (Ilocos Norte),17 January 2023,05:42 AM,Weak,Pagudpud,Ilocos Norte
+17 January 2023 - 05:21 AM,13.85,120.56,159.0,2.7,008 km N 73° W of Calatagan (Batangas),17 January 2023,05:21 AM,Slightly Felt,Calatagan,Batangas
+17 January 2023 - 04:58 AM,13.84,120.54,74.0,1.7,010 km N 88° W of Calatagan (Batangas),17 January 2023,04:58 AM,Scarcely Perceptible,Calatagan,Batangas
+17 January 2023 - 03:38 AM,11.37,124.51,1.0,3.6,002 km N 79° E of Leyte (Leyte),17 January 2023,03:38 AM,Weak,Leyte,Leyte
+17 January 2023 - 03:29 AM,13.69,120.57,72.0,1.8,017 km S 23° W of Calatagan (Batangas),17 January 2023,03:29 AM,Scarcely Perceptible,Calatagan,Batangas
+17 January 2023 - 02:17 AM,5.88,125.82,153.0,2.6,020 km S 80° E of Jose Abad Santos (Davao Occidental),17 January 2023,02:17 AM,Slightly Felt,Jose Abad Santos,Davao Occidental
+17 January 2023 - 01:27 AM,11.26,124.52,1.0,3.2,013 km S 18° E of Leyte (Leyte),17 January 2023,01:27 AM,Weak,Leyte,Leyte
+17 January 2023 - 01:18 AM,10.24,125.88,15.0,2.3,030 km N 36° W of Santa Monica (Surigao Del Norte),17 January 2023,01:18 AM,Slightly Felt,Santa Monica,Surigao Del Norte
+16 January 2023 - 10:41 PM,5.06,127.51,36.0,3.4,227 km S 66° E of Jose Abad Santos (Davao Occidental),16 January 2023,10:41 PM,Weak,Jose Abad Santos,Davao Occidental
+16 January 2023 - 10:10 PM,14.39,119.1,33.0,2.7,123 km S 60° W of San Antonio (Zambales),16 January 2023,10:10 PM,Slightly Felt,San Antonio,Zambales
+16 January 2023 - 10:04 PM,6.16,125.56,98.0,1.8,015 km S 75° W of Don Marcelino (Davao Occidental),16 January 2023,10:04 PM,Scarcely Perceptible,Don Marcelino,Davao Occidental
+16 January 2023 - 08:17 PM,7.78,124.61,6.0,2.7,009 km S 85° W of Amai Manabilang (Lanao Del Sur),16 January 2023,08:17 PM,Slightly Felt,Amai Manabilang,Lanao Del Sur
+16 January 2023 - 06:59 PM,15.82,121.07,21.0,1.8,013 km N 17° W of Rizal (Nueva Ecija),16 January 2023,06:59 PM,Scarcely Perceptible,Rizal,Nueva Ecija
+16 January 2023 - 03:53 PM,5.7,125.94,149.0,2.5,040 km S 55° E of Jose Abad Santos (Davao Occidental),16 January 2023,03:53 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+16 January 2023 - 12:16 PM,4.21,125.64,40.0,3.1,135 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),16 January 2023,12:16 PM,Weak,Balut Island,Municipality Of Sarangani
+16 January 2023 - 12:05 PM,7.84,126.43,125.0,2.0,006 km S 63° E of Boston (Davao Oriental),16 January 2023,12:05 PM,Slightly Felt,Boston,Davao Oriental
+16 January 2023 - 11:23 AM,17.63,120.64,10.0,1.8,002 km N 57° W of Tayum (Abra),16 January 2023,11:23 AM,Scarcely Perceptible,Tayum,Abra
+16 January 2023 - 11:20 AM,14.18,120.41,125.0,3.4,027 km N 65° W of Nasugbu (Batangas),16 January 2023,11:20 AM,Weak,Nasugbu,Batangas
+16 January 2023 - 08:40 AM,11.34,124.59,10.0,2.6,007 km N 49° W of Capoocan (Leyte),16 January 2023,08:40 AM,Slightly Felt,Capoocan,Leyte
+16 January 2023 - 08:35 AM,11.29,124.56,5.0,2.2,009 km S 84° W of Capoocan (Leyte),16 January 2023,08:35 AM,Slightly Felt,Capoocan,Leyte
+16 January 2023 - 05:42 AM,18.4,120.72,26.0,2.1,015 km S 33° E of Burgos (Ilocos Norte),16 January 2023,05:42 AM,Slightly Felt,Burgos,Ilocos Norte
+16 January 2023 - 05:35 AM,11.27,124.55,1.0,3.3,013 km S 30° E of Leyte (Leyte),16 January 2023,05:35 AM,Weak,Leyte,Leyte
+16 January 2023 - 05:32 AM,11.31,124.53,6.0,3.9,008 km S 34° E of Leyte (Leyte),16 January 2023,05:32 AM,Weak,Leyte,Leyte
+16 January 2023 - 05:28 AM,17.79,120.75,4.0,2.2,009 km N 34° E of Lagayan (Abra),16 January 2023,05:28 AM,Slightly Felt,Lagayan,Abra
+16 January 2023 - 05:26 AM,13.35,120.21,6.0,2.1,028 km S 74° W of Paluan (Occidental Mindoro),16 January 2023,05:26 AM,Slightly Felt,Paluan,Occidental Mindoro
+16 January 2023 - 05:09 AM,17.8,120.73,5.0,2.4,009 km N 16° E of Lagayan (Abra),16 January 2023,05:09 AM,Slightly Felt,Lagayan,Abra
+16 January 2023 - 04:50 AM,8.92,126.65,9.0,1.9,038 km N 89° E of Cagwait (Surigao Del Sur),16 January 2023,04:50 AM,Scarcely Perceptible,Cagwait,Surigao Del Sur
+16 January 2023 - 04:01 AM,11.68,125.95,19.0,2.4,052 km N 44° E of Hernani (Eastern Samar),16 January 2023,04:01 AM,Slightly Felt,Hernani,Eastern Samar
+16 January 2023 - 03:43 AM,17.53,121.06,20.0,2.0,007 km S 51° E of Malibcong (Abra),16 January 2023,03:43 AM,Slightly Felt,Malibcong,Abra
+16 January 2023 - 03:30 AM,17.63,120.65,9.0,2.5,002 km North of Tayum (Abra),16 January 2023,03:30 AM,Slightly Felt,Tayum,Abra
+16 January 2023 - 03:07 AM,13.75,120.6,110.0,1.4,010 km S 22° W of Calatagan (Batangas),16 January 2023,03:07 AM,Scarcely Perceptible,Calatagan,Batangas
+16 January 2023 - 02:44 AM,9.9,126.06,1.0,1.5,005 km S 44° W of San Isidro (Surigao Del Norte),16 January 2023,02:44 AM,Scarcely Perceptible,San Isidro,Surigao Del Norte
+16 January 2023 - 02:42 AM,7.55,126.12,7.0,2.2,002 km N 87° W of New Bataan (Davao De Oro),16 January 2023,02:42 AM,Slightly Felt,New Bataan,Davao De Oro
+16 January 2023 - 01:12 AM,11.31,124.57,3.0,2.6,008 km N 81° W of Capoocan (Leyte),16 January 2023,01:12 AM,Slightly Felt,Capoocan,Leyte
+16 January 2023 - 12:51 AM,11.27,124.57,1.0,3.2,009 km S 70° W of Capoocan (Leyte),16 January 2023,12:51 AM,Weak,Capoocan,Leyte
+16 January 2023 - 12:19 AM,9.89,126.0,33.0,1.5,004 km N 56° E of Del Carmen (Surigao Del Norte),16 January 2023,12:19 AM,Scarcely Perceptible,Del Carmen,Surigao Del Norte
+16 January 2023 - 12:14 AM,11.28,124.53,5.0,2.0,011 km S 28° E of Leyte (Leyte),16 January 2023,12:14 AM,Slightly Felt,Leyte,Leyte
+16 January 2023 - 12:13 AM,7.03,121.88,10.0,2.1,035 km S 36° W of Sibuco (Zamboanga Del Norte),16 January 2023,12:13 AM,Slightly Felt,Sibuco,Zamboanga Del Norte
+15 January 2023 - 11:39 PM,10.14,126.24,33.0,1.6,022 km N 54° E of Burgos (Surigao Del Norte),15 January 2023,11:39 PM,Scarcely Perceptible,Burgos,Surigao Del Norte
+15 January 2023 - 09:44 PM,9.28,122.96,102.0,1.9,013 km S 60° E of Santa Catalina (Negros Oriental),15 January 2023,09:44 PM,Scarcely Perceptible,Santa Catalina,Negros Oriental
+15 January 2023 - 09:18 PM,11.22,124.58,1.0,3.6,019 km S 32° E of Leyte (Leyte),15 January 2023,09:18 PM,Weak,Leyte,Leyte
+15 January 2023 - 09:11 PM,11.3,124.55,3.0,3.8,011 km S 42° E of Leyte (Leyte),15 January 2023,09:11 PM,Weak,Leyte,Leyte
+15 January 2023 - 09:03 PM,9.08,126.23,42.0,2.2,014 km N 26° W of Bayabas (Surigao Del Sur),15 January 2023,09:03 PM,Slightly Felt,Bayabas,Surigao Del Sur
+15 January 2023 - 08:28 PM,11.33,124.54,1.0,5.3,007 km S 55° E of Leyte (Leyte),15 January 2023,08:28 PM,Strong,Leyte,Leyte
+15 January 2023 - 07:48 PM,13.24,124.32,6.0,2.5,039 km S 15° E of Virac (Catanduanes),15 January 2023,07:48 PM,Slightly Felt,Virac,Catanduanes
+15 January 2023 - 05:54 PM,13.22,121.24,16.0,1.8,007 km N 41° W of Victoria (Oriental Mindoro),15 January 2023,05:54 PM,Scarcely Perceptible,Victoria,Oriental Mindoro
+15 January 2023 - 05:14 PM,5.55,125.09,10.0,2.5,033 km S 23° W of Glan (Sarangani),15 January 2023,05:14 PM,Slightly Felt,Glan,Sarangani
+15 January 2023 - 05:02 PM,13.01,121.18,27.0,2.0,031 km S 63° W of Pola (Oriental Mindoro),15 January 2023,05:02 PM,Slightly Felt,Pola,Oriental Mindoro
+15 January 2023 - 04:58 PM,7.43,123.51,34.0,1.7,012 km S 70° E of Tabina (Zamboanga Del Sur),15 January 2023,04:58 PM,Scarcely Perceptible,Tabina,Zamboanga Del Sur
+15 January 2023 - 04:54 PM,11.33,126.27,19.0,3.4,066 km N 68° E of Mercedes (Eastern Samar),15 January 2023,04:54 PM,Weak,Mercedes,Eastern Samar
+15 January 2023 - 01:53 PM,17.74,120.54,3.0,3.3,008 km S 86° E of San Juan (Ilocos Sur),15 January 2023,01:53 PM,Weak,San Juan,Ilocos Sur
+15 January 2023 - 12:36 PM,9.23,126.5,13.0,2.7,035 km S 82° E of Cortes (Surigao Del Sur),15 January 2023,12:36 PM,Slightly Felt,Cortes,Surigao Del Sur
+15 January 2023 - 11:41 AM,7.2,127.07,3.0,3.1,058 km S 76° E of Caraga (Davao Oriental),15 January 2023,11:41 AM,Weak,Caraga,Davao Oriental
+15 January 2023 - 11:32 AM,4.42,125.48,58.0,3.5,110 km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),15 January 2023,11:32 AM,Weak,Balut Island,Municipality Of Sarangani
+15 January 2023 - 09:32 AM,18.47,120.86,1.0,1.8,004 km N 83° W of Adams (Ilocos Norte),15 January 2023,09:32 AM,Scarcely Perceptible,Adams,Ilocos Norte
+15 January 2023 - 08:30 AM,5.98,126.03,157.0,3.2,043 km N 80° E of Jose Abad Santos (Davao Occidental),15 January 2023,08:30 AM,Weak,Jose Abad Santos,Davao Occidental
+15 January 2023 - 06:34 AM,17.67,122.62,23.0,3.0,051 km N 43° E of Divilacan (Isabela),15 January 2023,06:34 AM,Weak,Divilacan,Isabela
+15 January 2023 - 06:17 AM,13.55,121.63,9.0,2.2,026 km N 63° W of Boac (Marinduque),15 January 2023,06:17 AM,Slightly Felt,Boac,Marinduque
+15 January 2023 - 05:32 AM,10.35,125.18,31.0,2.0,005 km S 24° W of Hinunangan (Southern Leyte),15 January 2023,05:32 AM,Slightly Felt,Hinunangan,Southern Leyte
+15 January 2023 - 04:50 AM,6.4,126.12,44.0,2.7,029 km S 11° E of Governor Generoso (Davao Oriental),15 January 2023,04:50 AM,Slightly Felt,Governor Generoso,Davao Oriental
+15 January 2023 - 04:47 AM,13.82,125.53,32.0,4.0,123 km N 88° E of Gigmoto (Catanduanes),15 January 2023,04:47 AM,Moderately Strong,Gigmoto,Catanduanes
+15 January 2023 - 04:13 AM,16.77,122.92,1.0,1.9,061 km S 58° E of Palanan (Isabela),15 January 2023,04:13 AM,Scarcely Perceptible,Palanan,Isabela
+15 January 2023 - 04:10 AM,17.67,120.47,34.0,2.2,005 km S 65° E of Magsingal (Ilocos Sur),15 January 2023,04:10 AM,Slightly Felt,Magsingal,Ilocos Sur
+15 January 2023 - 03:57 AM,13.69,120.55,94.0,2.4,018 km S 29° W of Calatagan (Batangas),15 January 2023,03:57 AM,Slightly Felt,Calatagan,Batangas
+15 January 2023 - 03:56 AM,10.57,125.04,31.0,1.7,009 km S 63° E of Mahaplag (Leyte),15 January 2023,03:56 AM,Scarcely Perceptible,Mahaplag,Leyte
+15 January 2023 - 03:43 AM,15.65,121.7,1.0,2.3,019 km S 53° E of Baler (Aurora),15 January 2023,03:43 AM,Slightly Felt,Baler,Aurora
+15 January 2023 - 03:39 AM,11.42,125.54,20.0,2.1,001 km N 51° W of Llorente (Eastern Samar),15 January 2023,03:39 AM,Slightly Felt,Llorente,Eastern Samar
+15 January 2023 - 03:30 AM,8.74,122.65,23.0,2.4,053 km N 51° W of Jose Dalman (Zamboanga Del Norte),15 January 2023,03:30 AM,Slightly Felt,Jose Dalman,Zamboanga Del Norte
+15 January 2023 - 03:03 AM,7.53,123.75,47.0,2.1,029 km S 58° W of Picong (Lanao Del Sur),15 January 2023,03:03 AM,Slightly Felt,Picong,Lanao Del Sur
+15 January 2023 - 02:53 AM,9.38,126.4,19.0,2.2,026 km N 64° E of Cortes (Surigao Del Sur),15 January 2023,02:53 AM,Slightly Felt,Cortes,Surigao Del Sur
+15 January 2023 - 02:23 AM,6.58,124.3,26.0,2.1,014 km N 10° W of Senator Ninoy Aquino (Sultan Kudarat),15 January 2023,02:23 AM,Slightly Felt,Senator Ninoy Aquino,Sultan Kudarat
+15 January 2023 - 02:19 AM,10.05,126.23,17.0,1.9,017 km N 78° E of Burgos (Surigao Del Norte),15 January 2023,02:19 AM,Scarcely Perceptible,Burgos,Surigao Del Norte
+15 January 2023 - 02:12 AM,13.66,120.61,92.0,1.5,019 km S 08° W of Calatagan (Batangas),15 January 2023,02:12 AM,Scarcely Perceptible,Calatagan,Batangas
+15 January 2023 - 01:25 AM,14.14,120.38,111.0,1.7,028 km N 74° W of Nasugbu (Batangas),15 January 2023,01:25 AM,Scarcely Perceptible,Nasugbu,Batangas
+14 January 2023 - 11:41 PM,16.72,120.1,12.0,4.1,025 km N 64° W of City Of San Fernando (La Union),14 January 2023,11:41 PM,Moderately Strong,City Of San Fernando,La Union
+14 January 2023 - 08:44 PM,9.31,126.14,17.0,2.7,007 km N 52° W of Cortes (Surigao Del Sur),14 January 2023,08:44 PM,Slightly Felt,Cortes,Surigao Del Sur
+14 January 2023 - 08:36 PM,16.88,122.49,8.0,2.2,021 km S 17° E of Palanan (Isabela),14 January 2023,08:36 PM,Slightly Felt,Palanan,Isabela
+14 January 2023 - 08:13 PM,14.65,121.95,5.0,2.3,007 km S 07° E of Polillo (Quezon),14 January 2023,08:13 PM,Slightly Felt,Polillo,Quezon
+14 January 2023 - 07:45 PM,6.74,124.99,2.0,1.7,007 km N 30° E of Columbio (Sultan Kudarat),14 January 2023,07:45 PM,Scarcely Perceptible,Columbio,Sultan Kudarat
+14 January 2023 - 06:51 PM,6.05,126.13,124.0,2.2,051 km S 72° E of Don Marcelino (Davao Occidental),14 January 2023,06:51 PM,Slightly Felt,Don Marcelino,Davao Occidental
+14 January 2023 - 05:58 PM,10.0,125.18,21.0,2.0,007 km S 18° E of San Francisco (Southern Leyte),14 January 2023,05:58 PM,Slightly Felt,San Francisco,Southern Leyte
+14 January 2023 - 05:44 PM,6.67,125.15,6.0,2.9,012 km N 65° W of Kiblawan (Davao Del Sur),14 January 2023,05:44 PM,Slightly Felt,Kiblawan,Davao Del Sur
+14 January 2023 - 05:08 PM,14.97,119.33,1.0,2.1,080 km S 60° W of Iba (Zambales),14 January 2023,05:08 PM,Slightly Felt,Iba,Zambales
+14 January 2023 - 01:38 PM,13.81,123.32,1.0,3.5,016 km N 45° E of Calabanga (Camarines Sur),14 January 2023,01:38 PM,Weak,Calabanga,Camarines Sur
+14 January 2023 - 12:48 PM,6.59,127.14,1.0,3.1,092 km S 56° E of Tarragona (Davao Oriental),14 January 2023,12:48 PM,Weak,Tarragona,Davao Oriental
+14 January 2023 - 12:00 PM,15.55,119.97,21.0,2.2,003 km N 23° E of Masinloc (Zambales),14 January 2023,12:00 PM,Slightly Felt,Masinloc,Zambales
+14 January 2023 - 11:59 AM,16.72,120.1,40.0,1.9,026 km N 64° W of City Of San Fernando (La Union),14 January 2023,11:59 AM,Scarcely Perceptible,City Of San Fernando,La Union
+14 January 2023 - 08:04 AM,6.91,125.85,49.0,2.8,017 km N 85° W of Lupon (Davao Oriental),14 January 2023,08:04 AM,Slightly Felt,Lupon,Davao Oriental
+14 January 2023 - 06:05 AM,13.73,120.63,84.0,1.8,012 km S 01° E of Calatagan (Batangas),14 January 2023,06:05 AM,Scarcely Perceptible,Calatagan,Batangas
+14 January 2023 - 05:17 AM,4.27,125.99,103.0,3.5,141 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),14 January 2023,05:17 AM,Weak,Balut Island,Municipality Of Sarangani
+14 January 2023 - 04:42 AM,7.89,125.68,14.0,2.6,014 km N 57° W of Laak (Davao De Oro),14 January 2023,04:42 AM,Slightly Felt,Laak,Davao De Oro
+14 January 2023 - 04:37 AM,6.13,126.25,124.0,2.7,062 km S 83° E of Don Marcelino (Davao Occidental),14 January 2023,04:37 AM,Slightly Felt,Don Marcelino,Davao Occidental
+14 January 2023 - 04:01 AM,18.32,120.81,27.0,1.4,019 km S 32° W of Adams (Ilocos Norte),14 January 2023,04:01 AM,Scarcely Perceptible,Adams,Ilocos Norte
+14 January 2023 - 03:52 AM,5.76,125.15,24.0,1.8,009 km S 37° W of Glan (Sarangani),14 January 2023,03:52 AM,Scarcely Perceptible,Glan,Sarangani
+14 January 2023 - 03:23 AM,8.32,124.11,5.0,2.7,017 km N 33° E of Bacolod (Lanao Del Norte),14 January 2023,03:23 AM,Slightly Felt,Bacolod,Lanao Del Norte
+14 January 2023 - 02:29 AM,8.06,126.64,74.0,3.1,025 km N 85° E of Lingig (Surigao Del Sur),14 January 2023,02:29 AM,Weak,Lingig,Surigao Del Sur
+14 January 2023 - 01:53 AM,9.67,125.82,18.0,1.6,015 km N 42° E of Claver (Surigao Del Norte),14 January 2023,01:53 AM,Scarcely Perceptible,Claver,Surigao Del Norte
+14 January 2023 - 01:44 AM,16.94,121.55,9.0,2.5,007 km N 69° E of Alfonso Lista (Ifugao),14 January 2023,01:44 AM,Slightly Felt,Alfonso Lista,Ifugao
+14 January 2023 - 12:54 AM,7.73,122.06,20.0,3.2,008 km N 72° W of Siocon (Zamboanga Del Norte),14 January 2023,12:54 AM,Weak,Siocon,Zamboanga Del Norte
+13 January 2023 - 11:25 PM,13.78,120.49,34.0,1.6,017 km S 69° W of Calatagan (Batangas),13 January 2023,11:25 PM,Scarcely Perceptible,Calatagan,Batangas
+13 January 2023 - 11:03 PM,1.93,127.15,95.0,4.5,430 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),13 January 2023,11:03 PM,Moderately Strong,Balut Island,Municipality Of Sarangani
+13 January 2023 - 10:45 PM,18.03,123.2,26.0,4.1,121 km S 67° E of Santa Ana (Cagayan),13 January 2023,10:45 PM,Moderately Strong,Santa Ana,Cagayan
+13 January 2023 - 10:03 PM,18.4,121.0,1.0,3.0,012 km S 55° E of Adams (Ilocos Norte),13 January 2023,10:03 PM,Weak,Adams,Ilocos Norte
+13 January 2023 - 09:51 PM,17.81,120.69,33.0,1.6,011 km N 12° W of Lagayan (Abra),13 January 2023,09:51 PM,Scarcely Perceptible,Lagayan,Abra
+13 January 2023 - 09:50 PM,17.73,120.46,1.0,2.0,002 km S 17° W of San Juan (Ilocos Sur),13 January 2023,09:50 PM,Slightly Felt,San Juan,Ilocos Sur
+13 January 2023 - 08:22 PM,6.35,127.44,89.0,2.4,134 km S 55° E of Tarragona (Davao Oriental),13 January 2023,08:22 PM,Slightly Felt,Tarragona,Davao Oriental
+13 January 2023 - 07:17 PM,6.61,125.54,18.0,3.0,009 km N 47° E of Santa Maria (Davao Occidental),13 January 2023,07:17 PM,Weak,Santa Maria,Davao Occidental
+13 January 2023 - 06:44 PM,9.46,126.2,17.0,1.7,020 km N 01° E of Cortes (Surigao Del Sur),13 January 2023,06:44 PM,Scarcely Perceptible,Cortes,Surigao Del Sur
+13 January 2023 - 06:27 PM,9.85,124.37,14.0,1.7,004 km N 66° E of Pilar (Bohol),13 January 2023,06:27 PM,Scarcely Perceptible,Pilar,Bohol
+13 January 2023 - 01:44 PM,9.81,126.21,33.0,1.9,007 km N 65° E of General Luna (Surigao Del Norte),13 January 2023,01:44 PM,Scarcely Perceptible,General Luna,Surigao Del Norte
+13 January 2023 - 12:57 PM,11.62,124.25,12.0,2.6,013 km S 61° W of Kawayan (Biliran),13 January 2023,12:57 PM,Slightly Felt,Kawayan,Biliran
+13 January 2023 - 12:43 PM,5.25,126.86,98.0,3.7,154 km S 61° E of Jose Abad Santos (Davao Occidental),13 January 2023,12:43 PM,Weak,Jose Abad Santos,Davao Occidental
+13 January 2023 - 12:17 PM,13.61,120.99,52.0,1.6,012 km N 45° W of Verde Island (Batangas City) (Batangas),13 January 2023,12:17 PM,Scarcely Perceptible,Verde Island,Batangas City
+13 January 2023 - 12:00 PM,6.88,126.71,21.0,2.7,035 km S 58° E of Tarragona (Davao Oriental),13 January 2023,12:00 PM,Slightly Felt,Tarragona,Davao Oriental
+13 January 2023 - 11:48 AM,9.92,126.11,10.0,3.2,003 km S 48° E of San Isidro (Surigao Del Norte),13 January 2023,11:48 AM,Weak,San Isidro,Surigao Del Norte
+13 January 2023 - 11:47 AM,5.05,127.32,114.0,3.9,209 km S 63° E of Jose Abad Santos (Davao Occidental),13 January 2023,11:47 AM,Weak,Jose Abad Santos,Davao Occidental
+13 January 2023 - 09:02 AM,4.83,125.3,20.0,3.5,066 km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),13 January 2023,09:02 AM,Weak,Balut Island,Municipality Of Sarangani
+13 January 2023 - 09:00 AM,10.41,124.82,5.0,2.7,009 km N 63° E of Hilongos (Leyte),13 January 2023,09:00 AM,Slightly Felt,Hilongos,Leyte
+13 January 2023 - 08:56 AM,13.67,120.64,135.0,2.6,018 km S 02° E of Calatagan (Batangas),13 January 2023,08:56 AM,Slightly Felt,Calatagan,Batangas
+13 January 2023 - 07:37 AM,14.44,123.08,1.0,3.3,014 km S 75° E of Tinaga Island (Vinzons) (Camarines Norte),13 January 2023,07:37 AM,Weak,Tinaga Island,Vinzons
+13 January 2023 - 07:31 AM,14.45,123.06,1.0,3.3,012 km S 77° E of Tinaga Island (Vinzons) (Camarines Norte),13 January 2023,07:31 AM,Weak,Tinaga Island,Vinzons
+13 January 2023 - 06:51 AM,16.96,122.93,20.0,2.9,054 km S 78° E of Palanan (Isabela),13 January 2023,06:51 AM,Slightly Felt,Palanan,Isabela
+13 January 2023 - 06:06 AM,18.5,120.84,9.0,2.0,004 km S 52° E of Dumalneg (Ilocos Norte),13 January 2023,06:06 AM,Slightly Felt,Dumalneg,Ilocos Norte
+13 January 2023 - 05:51 AM,13.67,120.66,112.0,1.7,018 km S 09° E of Calatagan (Batangas),13 January 2023,05:51 AM,Scarcely Perceptible,Calatagan,Batangas
+13 January 2023 - 05:48 AM,18.9,120.65,5.0,2.9,041 km N 21° W of Pagudpud (Ilocos Norte),13 January 2023,05:48 AM,Slightly Felt,Pagudpud,Ilocos Norte
+13 January 2023 - 05:44 AM,10.35,126.13,13.0,2.6,037 km N 10° E of Burgos (Surigao Del Norte),13 January 2023,05:44 AM,Slightly Felt,Burgos,Surigao Del Norte
+13 January 2023 - 04:09 AM,18.21,119.6,20.0,3.4,096 km N 77° W of Currimao (Ilocos Norte),13 January 2023,04:09 AM,Weak,Currimao,Ilocos Norte
+13 January 2023 - 03:45 AM,19.02,120.98,12.0,2.2,026 km S 69° W of Dalupiri Island (Calayan) (Cagayan),13 January 2023,03:45 AM,Slightly Felt,Dalupiri Island,Calayan
+13 January 2023 - 03:31 AM,6.79,126.77,45.0,2.3,045 km S 51° E of Tarragona (Davao Oriental),13 January 2023,03:31 AM,Slightly Felt,Tarragona,Davao Oriental
+13 January 2023 - 03:25 AM,13.65,120.65,88.0,1.6,021 km S 04° E of Calatagan (Batangas),13 January 2023,03:25 AM,Scarcely Perceptible,Calatagan,Batangas
+13 January 2023 - 02:20 AM,14.25,121.16,4.0,2.3,005 km S 60° E of City Of Cabuyao (Laguna),13 January 2023,02:20 AM,Slightly Felt,City Of Cabuyao,Laguna
+13 January 2023 - 01:49 AM,13.77,120.63,100.0,1.8,007 km South of Calatagan (Batangas),13 January 2023,01:49 AM,Scarcely Perceptible,Calatagan,Batangas
+13 January 2023 - 01:35 AM,2.81,128.31,256.0,4.3,431 km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),13 January 2023,01:35 AM,Moderately Strong,Balut Island,Municipality Of Sarangani
+13 January 2023 - 01:34 AM,5.7,126.64,17.0,3.2,113 km S 78° E of Jose Abad Santos (Davao Occidental),13 January 2023,01:34 AM,Weak,Jose Abad Santos,Davao Occidental
+13 January 2023 - 01:21 AM,9.24,123.17,3.0,1.6,010 km S 60° W of Valencia (Negros Oriental),13 January 2023,01:21 AM,Scarcely Perceptible,Valencia,Negros Oriental
+13 January 2023 - 12:52 AM,9.29,123.18,7.0,3.0,008 km N 84° W of Valencia (Negros Oriental),13 January 2023,12:52 AM,Weak,Valencia,Negros Oriental
+13 January 2023 - 12:45 AM,19.08,120.58,6.0,3.5,062 km N 20° W of Pagudpud (Ilocos Norte),13 January 2023,12:45 AM,Weak,Pagudpud,Ilocos Norte
+13 January 2023 - 12:04 AM,11.01,121.99,18.0,2.3,011 km N 05° W of Patnongon (Antique),13 January 2023,12:04 AM,Slightly Felt,Patnongon,Antique
+12 January 2023 - 11:51 PM,18.84,121.12,12.0,2.3,026 km N 09° E of Claveria (Cagayan),12 January 2023,11:51 PM,Slightly Felt,Claveria,Cagayan
+12 January 2023 - 09:53 PM,9.33,125.79,23.0,2.4,018 km S 76° W of Carrascal (Surigao Del Sur),12 January 2023,09:53 PM,Slightly Felt,Carrascal,Surigao Del Sur
+12 January 2023 - 09:18 PM,13.12,120.77,4.0,2.6,007 km N 51° E of Santa Cruz (Occidental Mindoro),12 January 2023,09:18 PM,Slightly Felt,Santa Cruz,Occidental Mindoro
+12 January 2023 - 08:27 PM,16.5,122.86,130.0,2.7,063 km S 88° E of Dinapigue (Isabela),12 January 2023,08:27 PM,Slightly Felt,Dinapigue,Isabela
+12 January 2023 - 06:55 PM,9.0,126.85,8.0,3.1,062 km N 87° E of Bayabas (Surigao Del Sur),12 January 2023,06:55 PM,Weak,Bayabas,Surigao Del Sur
+12 January 2023 - 06:24 PM,5.94,125.74,145.0,2.6,011 km N 74° E of Jose Abad Santos (Davao Occidental),12 January 2023,06:24 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+12 January 2023 - 05:50 PM,16.17,121.99,25.0,2.1,005 km N 46° E of Dinalungan (Aurora),12 January 2023,05:50 PM,Slightly Felt,Dinalungan,Aurora
+12 January 2023 - 04:47 PM,13.75,120.61,100.0,1.7,009 km S 13° W of Calatagan (Batangas),12 January 2023,04:47 PM,Scarcely Perceptible,Calatagan,Batangas
+12 January 2023 - 04:04 PM,12.34,123.71,51.0,3.1,005 km N 86° E of Mobo (Masbate),12 January 2023,04:04 PM,Weak,Mobo,Masbate
+12 January 2023 - 12:09 PM,13.54,120.67,94.0,1.7,012 km N 32° W of Abra De Ilog (Occidental Mindoro),12 January 2023,12:09 PM,Scarcely Perceptible,Abra De Ilog,Occidental Mindoro
+12 January 2023 - 06:20 AM,16.9,121.47,12.0,2.1,003 km S 43° W of Alfonso Lista (Ifugao),12 January 2023,06:20 AM,Slightly Felt,Alfonso Lista,Ifugao
+12 January 2023 - 05:24 AM,13.26,122.27,1.0,2.1,028 km S 70° W of San Francisco (Quezon),12 January 2023,05:24 AM,Slightly Felt,San Francisco,Quezon
+12 January 2023 - 04:58 AM,13.26,122.29,2.0,2.6,027 km S 70° W of San Francisco (Quezon),12 January 2023,04:58 AM,Slightly Felt,San Francisco,Quezon
+12 January 2023 - 04:57 AM,17.21,120.74,23.0,1.7,005 km S 18° E of Tubo (Abra),12 January 2023,04:57 AM,Scarcely Perceptible,Tubo,Abra
+12 January 2023 - 04:19 AM,17.04,123.1,12.0,2.0,072 km S 88° E of Palanan (Isabela),12 January 2023,04:19 AM,Slightly Felt,Palanan,Isabela
+12 January 2023 - 04:07 AM,15.24,120.27,34.0,1.7,024 km N 69° E of Cabangan (Zambales),12 January 2023,04:07 AM,Scarcely Perceptible,Cabangan,Zambales
+12 January 2023 - 03:55 AM,8.35,125.84,28.0,2.2,008 km N 30° E of La Paz (Agusan Del Sur),12 January 2023,03:55 AM,Slightly Felt,La Paz,Agusan Del Sur
+12 January 2023 - 03:35 AM,6.46,125.96,136.0,2.6,025 km S 30° W of Governor Generoso (Davao Oriental),12 January 2023,03:35 AM,Slightly Felt,Governor Generoso,Davao Oriental
+12 January 2023 - 03:07 AM,17.92,120.05,15.0,2.5,043 km N 83° W of Sinait (Ilocos Sur),12 January 2023,03:07 AM,Slightly Felt,Sinait,Ilocos Sur
+12 January 2023 - 02:44 AM,3.5,126.15,51.0,3.2,227 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),12 January 2023,02:44 AM,Weak,Balut Island,Municipality Of Sarangani
+12 January 2023 - 02:40 AM,11.5,125.28,76.0,2.6,021 km S 54° W of City Of Borongan (Eastern Samar),12 January 2023,02:40 AM,Slightly Felt,City Of Borongan,Eastern Samar
+12 January 2023 - 12:51 AM,17.61,120.59,19.0,1.9,003 km N 69° W of Bangued (Abra),12 January 2023,12:51 AM,Scarcely Perceptible,Bangued,Abra
+11 January 2023 - 11:47 PM,10.71,122.38,39.0,1.6,003 km N 04° E of Tigbauan (Iloilo),11 January 2023,11:47 PM,Scarcely Perceptible,Tigbauan,Iloilo
+11 January 2023 - 11:17 PM,10.39,125.72,14.0,2.0,016 km N 77° E of Loreto (Dinagat Islands),11 January 2023,11:17 PM,Slightly Felt,Loreto,Dinagat Islands
+11 January 2023 - 11:16 PM,10.01,126.37,10.0,2.9,032 km N 76° E of San Isidro (Surigao Del Norte),11 January 2023,11:16 PM,Slightly Felt,San Isidro,Surigao Del Norte
+11 January 2023 - 10:58 PM,13.98,120.2,6.0,1.6,016 km N 31° E of Lubang (Occidental Mindoro),11 January 2023,10:58 PM,Scarcely Perceptible,Lubang,Occidental Mindoro
+11 January 2023 - 10:11 PM,16.98,122.91,17.0,2.6,052 km S 80° E of Palanan (Isabela),11 January 2023,10:11 PM,Slightly Felt,Palanan,Isabela
+11 January 2023 - 09:18 PM,12.72,120.59,13.0,3.0,025 km S 57° W of Sablayan (Occidental Mindoro),11 January 2023,09:18 PM,Weak,Sablayan,Occidental Mindoro
+11 January 2023 - 08:33 PM,17.1,122.5,9.0,2.0,008 km N 58° E of Palanan (Isabela),11 January 2023,08:33 PM,Slightly Felt,Palanan,Isabela
+11 January 2023 - 08:26 PM,12.04,121.75,40.0,2.0,023 km N 49° W of Malay (Aklan),11 January 2023,08:26 PM,Slightly Felt,Malay,Aklan
+11 January 2023 - 08:08 PM,9.01,126.42,20.0,3.0,016 km N 73° E of Bayabas (Surigao Del Sur),11 January 2023,08:08 PM,Weak,Bayabas,Surigao Del Sur
+11 January 2023 - 08:06 PM,11.95,121.69,12.0,3.6,015 km N 82° E of Caluya (Antique),11 January 2023,08:06 PM,Weak,Caluya,Antique
+11 January 2023 - 07:13 PM,11.16,126.22,1.0,3.2,056 km N 76° E of Guiuan (Eastern Samar),11 January 2023,07:13 PM,Weak,Guiuan,Eastern Samar
+11 January 2023 - 07:03 PM,11.14,126.23,1.0,3.5,056 km N 78° E of Guiuan (Eastern Samar),11 January 2023,07:03 PM,Weak,Guiuan,Eastern Samar
+11 January 2023 - 03:56 PM,9.95,126.18,12.0,2.8,010 km N 84° E of San Isidro (Surigao Del Norte),11 January 2023,03:56 PM,Slightly Felt,San Isidro,Surigao Del Norte
+11 January 2023 - 03:49 PM,6.07,126.14,111.0,3.0,051 km S 74° E of Don Marcelino (Davao Occidental),11 January 2023,03:49 PM,Weak,Don Marcelino,Davao Occidental
+11 January 2023 - 03:12 PM,13.91,119.86,9.0,4.0,028 km N 82° W of Lubang (Occidental Mindoro),11 January 2023,03:12 PM,Moderately Strong,Lubang,Occidental Mindoro
+11 January 2023 - 02:04 PM,12.69,126.2,31.0,3.8,094 km N 53° E of San Policarpo (Eastern Samar),11 January 2023,02:04 PM,Weak,San Policarpo,Eastern Samar
+11 January 2023 - 11:50 AM,15.04,120.01,31.0,2.0,007 km S 75° W of San Felipe (Zambales),11 January 2023,11:50 AM,Slightly Felt,San Felipe,Zambales
+11 January 2023 - 11:48 AM,16.21,121.11,34.0,2.0,008 km S 14° E of Dupax Del Sur (Nueva Vizcaya),11 January 2023,11:48 AM,Slightly Felt,Dupax Del Sur,Nueva Vizcaya
+11 January 2023 - 07:27 AM,16.87,122.86,15.0,3.4,050 km S 65° E of Palanan (Isabela),11 January 2023,07:27 AM,Weak,Palanan,Isabela
+11 January 2023 - 07:24 AM,10.01,125.79,33.0,1.4,016 km N 53° E of Cagdianao (Dinagat Islands),11 January 2023,07:24 AM,Scarcely Perceptible,Cagdianao,Dinagat Islands
+11 January 2023 - 06:17 AM,16.99,123.0,22.0,2.6,061 km S 83° E of Palanan (Isabela),11 January 2023,06:17 AM,Slightly Felt,Palanan,Isabela
+11 January 2023 - 06:10 AM,13.26,120.34,23.0,2.6,021 km S 38° W of Paluan (Occidental Mindoro),11 January 2023,06:10 AM,Slightly Felt,Paluan,Occidental Mindoro
+11 January 2023 - 06:04 AM,16.88,122.87,14.0,3.9,051 km S 67° E of Palanan (Isabela),11 January 2023,06:04 AM,Weak,Palanan,Isabela
+11 January 2023 - 05:59 AM,16.99,122.96,25.0,3.7,057 km S 82° E of Palanan (Isabela),11 January 2023,05:59 AM,Weak,Palanan,Isabela
+11 January 2023 - 05:55 AM,17.17,120.62,32.0,1.7,007 km N 57° W of Quirino (Ilocos Sur),11 January 2023,05:55 AM,Scarcely Perceptible,Quirino,Ilocos Sur
+11 January 2023 - 05:33 AM,16.94,122.9,14.0,3.5,051 km S 75° E of Palanan (Isabela),11 January 2023,05:33 AM,Weak,Palanan,Isabela
+11 January 2023 - 05:32 AM,9.12,126.26,27.0,2.2,011 km N 64° E of City Of Tandag (Surigao Del Sur),11 January 2023,05:32 AM,Slightly Felt,City Of Tandag,Surigao Del Sur
+11 January 2023 - 05:26 AM,16.96,122.94,19.0,3.0,055 km S 78° E of Palanan (Isabela),11 January 2023,05:26 AM,Weak,Palanan,Isabela
+11 January 2023 - 05:06 AM,16.98,122.95,23.0,3.3,056 km S 81° E of Palanan (Isabela),11 January 2023,05:06 AM,Weak,Palanan,Isabela
+11 January 2023 - 04:53 AM,11.89,121.34,23.0,1.7,023 km S 79° W of Caluya (Antique),11 January 2023,04:53 AM,Scarcely Perceptible,Caluya,Antique
+11 January 2023 - 04:27 AM,16.97,122.93,19.0,2.7,054 km S 78° E of Palanan (Isabela),11 January 2023,04:27 AM,Slightly Felt,Palanan,Isabela
+11 January 2023 - 03:58 AM,16.92,122.86,14.0,2.1,048 km S 70° E of Palanan (Isabela),11 January 2023,03:58 AM,Slightly Felt,Palanan,Isabela
+11 January 2023 - 03:45 AM,9.55,122.52,32.0,1.5,008 km S 42° E of Hinoba-an (Negros Occidental),11 January 2023,03:45 AM,Scarcely Perceptible,Hinoba-an,Negros Occidental
+11 January 2023 - 03:28 AM,14.45,120.05,32.0,1.5,034 km S 42° W of Morong (Bataan),11 January 2023,03:28 AM,Scarcely Perceptible,Morong,Bataan
+11 January 2023 - 02:22 AM,8.97,126.08,24.0,3.6,023 km N 89° W of Bayabas (Surigao Del Sur),11 January 2023,02:22 AM,Weak,Bayabas,Surigao Del Sur
+11 January 2023 - 01:46 AM,5.77,126.15,134.0,2.1,058 km S 74° E of Jose Abad Santos (Davao Occidental),11 January 2023,01:46 AM,Slightly Felt,Jose Abad Santos,Davao Occidental
+11 January 2023 - 01:02 AM,7.49,126.47,14.0,2.6,014 km S 45° W of Baganga (Davao Oriental),11 January 2023,01:02 AM,Slightly Felt,Baganga,Davao Oriental
+11 January 2023 - 01:01 AM,7.51,126.51,16.0,2.0,009 km S 41° W of Baganga (Davao Oriental),11 January 2023,01:01 AM,Slightly Felt,Baganga,Davao Oriental
+11 January 2023 - 12:39 AM,18.6,120.89,6.0,2.4,012 km N 67° E of Pagudpud (Ilocos Norte),11 January 2023,12:39 AM,Slightly Felt,Pagudpud,Ilocos Norte
+11 January 2023 - 12:37 AM,9.1,126.89,1.0,2.5,068 km N 78° E of Bayabas (Surigao Del Sur),11 January 2023,12:37 AM,Slightly Felt,Bayabas,Surigao Del Sur
+11 January 2023 - 12:29 AM,15.45,120.03,24.0,1.9,015 km N 23° E of Iba (Zambales),11 January 2023,12:29 AM,Scarcely Perceptible,Iba,Zambales
+10 January 2023 - 10:49 PM,9.88,121.84,1.0,2.4,067 km N 79° W of City Of Sipalay (Negros Occidental),10 January 2023,10:49 PM,Slightly Felt,City Of Sipalay,Negros Occidental
+10 January 2023 - 10:33 PM,6.03,126.49,1.0,2.5,082 km S 34° E of Governor Generoso (Davao Oriental),10 January 2023,10:33 PM,Slightly Felt,Governor Generoso,Davao Oriental
+10 January 2023 - 10:12 PM,19.06,121.05,2.0,3.1,017 km S 73° W of Dalupiri Island (Calayan) (Cagayan),10 January 2023,10:12 PM,Weak,Dalupiri Island,Calayan
+10 January 2023 - 09:19 PM,13.73,120.61,135.0,2.1,026 km S 39° W of Calatagan (Batangas),10 January 2023,09:19 PM,Slightly Felt,Calatagan,Batangas
+10 January 2023 - 07:56 PM,7.12,123.61,22.0,2.9,044 km S 30° E of Tabina (Zamboanga Del Sur),10 January 2023,07:56 PM,Slightly Felt,Tabina,Zamboanga Del Sur
+10 January 2023 - 07:41 PM,9.91,126.08,30.0,2.1,003 km S 06° W of San Isidro (Surigao Del Norte),10 January 2023,07:41 PM,Slightly Felt,San Isidro,Surigao Del Norte
+10 January 2023 - 06:50 PM,5.5,126.66,23.0,2.6,122 km S 68° E of Jose Abad Santos (Davao Occidental),10 January 2023,06:50 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+10 January 2023 - 03:49 PM,15.52,120.24,35.0,1.6,019 km S 54° W of Mayantoc (Tarlac),10 January 2023,03:49 PM,Scarcely Perceptible,Mayantoc,Tarlac
+10 January 2023 - 02:07 PM,15.56,119.92,25.0,2.6,005 km N 49° W of Masinloc (Zambales),10 January 2023,02:07 PM,Slightly Felt,Masinloc,Zambales
+10 January 2023 - 01:58 PM,5.99,125.54,79.0,2.5,014 km N 55° W of Jose Abad Santos (Davao Occidental),10 January 2023,01:58 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+10 January 2023 - 12:37 PM,10.24,125.84,19.0,2.2,031 km S 64° E of Loreto (Dinagat Islands),10 January 2023,12:37 PM,Slightly Felt,Loreto,Dinagat Islands
+10 January 2023 - 12:32 PM,14.23,120.21,58.0,1.5,038 km S 53° W of Mariveles (Bataan),10 January 2023,12:32 PM,Scarcely Perceptible,Mariveles,Bataan
+10 January 2023 - 09:41 AM,15.09,122.15,2.0,1.8,034 km N 34° E of Burdeos (Quezon),10 January 2023,09:41 AM,Scarcely Perceptible,Burdeos,Quezon
+10 January 2023 - 07:32 AM,5.53,126.59,59.0,3.3,113 km S 68° E of Jose Abad Santos (Davao Occidental),10 January 2023,07:32 AM,Weak,Jose Abad Santos,Davao Occidental
+10 January 2023 - 06:49 AM,13.66,120.28,10.0,2.5,007 km S 25° E of Looc (Occidental Mindoro),10 January 2023,06:49 AM,Slightly Felt,Looc,Occidental Mindoro
+10 January 2023 - 06:46 AM,9.39,125.02,21.0,1.9,037 km N 63° E of Mambajao (Camiguin),10 January 2023,06:46 AM,Scarcely Perceptible,Mambajao,Camiguin
+10 January 2023 - 06:33 AM,17.48,121.37,8.0,2.2,010 km N 85° W of City Of Tabuk (Kalinga),10 January 2023,06:33 AM,Slightly Felt,City Of Tabuk,Kalinga
+10 January 2023 - 05:59 AM,2.74,125.48,20.0,3.7,285 km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),10 January 2023,05:59 AM,Weak,Balut Island,Municipality Of Sarangani
+10 January 2023 - 04:21 AM,9.43,126.15,24.0,2.1,018 km N 14° W of Cortes (Surigao Del Sur),10 January 2023,04:21 AM,Slightly Felt,Cortes,Surigao Del Sur
+10 January 2023 - 04:13 AM,12.19,121.82,21.0,1.7,019 km N 78° W of Santa Fe (Romblon),10 January 2023,04:13 AM,Scarcely Perceptible,Santa Fe,Romblon
+10 January 2023 - 04:01 AM,8.69,126.39,32.0,3.1,016 km S 41° E of Marihatag (Surigao Del Sur),10 January 2023,04:01 AM,Weak,Marihatag,Surigao Del Sur
+10 January 2023 - 02:34 AM,9.75,126.11,27.0,2.0,006 km S 56° W of General Luna (Surigao Del Norte),10 January 2023,02:34 AM,Slightly Felt,General Luna,Surigao Del Norte
+10 January 2023 - 01:45 AM,8.31,127.55,15.0,2.3,129 km N 77° E of Lingig (Surigao Del Sur),10 January 2023,01:45 AM,Slightly Felt,Lingig,Surigao Del Sur
+10 January 2023 - 12:42 AM,17.9,120.73,5.0,2.0,008 km S 74° E of Nueva Era (Ilocos Norte),10 January 2023,12:42 AM,Slightly Felt,Nueva Era,Ilocos Norte
+10 January 2023 - 12:23 AM,6.55,125.84,156.0,3.4,028 km S 65° W of Governor Generoso (Davao Oriental),10 January 2023,12:23 AM,Weak,Governor Generoso,Davao Oriental
+09 January 2023 - 11:32 PM,18.11,120.76,50.0,2.1,003 km N 21° W of Solsona (Ilocos Norte),09 January 2023,11:32 PM,Slightly Felt,Solsona,Ilocos Norte
+09 January 2023 - 11:23 PM,11.82,125.27,29.0,3.2,019 km S 62° W of Taft (Eastern Samar),09 January 2023,11:23 PM,Weak,Taft,Eastern Samar
+09 January 2023 - 08:19 PM,8.07,125.82,17.0,3.4,015 km S 90° W of Veruela (Agusan Del Sur),09 January 2023,08:19 PM,Weak,Veruela,Agusan Del Sur
+09 January 2023 - 05:47 PM,5.99,126.18,55.0,2.6,060 km N 82° E of Jose Abad Santos (Davao Occidental),09 January 2023,05:47 PM,Slightly Felt,Jose Abad Santos,Davao Occidental
+09 January 2023 - 05:10 PM,6.43,126.91,16.0,3.2,086 km S 37° E of Tarragona (Davao Oriental),09 January 2023,05:10 PM,Weak,Tarragona,Davao Oriental
+09 January 2023 - 04:35 PM,6.36,126.18,15.0,3.0,034 km S 21° E of Governor Generoso (Davao Oriental),09 January 2023,04:35 PM,Weak,Governor Generoso,Davao Oriental
+09 January 2023 - 01:32 PM,9.32,126.4,15.0,1.6,023 km N 79° E of Cortes (Surigao Del Sur),09 January 2023,01:32 PM,Scarcely Perceptible,Cortes,Surigao Del Sur
+09 January 2023 - 01:27 PM,16.71,120.11,22.0,1.5,025 km N 65° W of City Of San Fernando (La Union),09 January 2023,01:27 PM,Scarcely Perceptible,City Of San Fernando,La Union
+09 January 2023 - 11:38 AM,11.36,124.46,5.0,3.1,003 km S 71° W of Leyte (Leyte),09 January 2023,11:38 AM,Weak,Leyte,Leyte
+09 January 2023 - 10:36 AM,15.36,120.3,35.0,1.4,022 km S 53° W of San Jose (Tarlac),09 January 2023,10:36 AM,Scarcely Perceptible,San Jose,Tarlac
+09 January 2023 - 10:31 AM,13.59,120.64,115.0,2.2,019 km N 32° W of Abra De Ilog (Occidental Mindoro),09 January 2023,10:31 AM,Slightly Felt,Abra De Ilog,Occidental Mindoro
+09 January 2023 - 10:15 AM,9.8,126.14,38.0,1.9,002 km N 43° W of General Luna (Surigao Del Norte),09 January 2023,10:15 AM,Scarcely Perceptible,General Luna,Surigao Del Norte
+09 January 2023 - 05:16 AM,9.11,126.63,13.0,2.5,041 km N 68° E of Bayabas (Surigao Del Sur),09 January 2023,05:16 AM,Slightly Felt,Bayabas,Surigao Del Sur
+09 January 2023 - 05:06 AM,5.25,126.45,79.0,2.8,111 km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),09 January 2023,05:06 AM,Slightly Felt,Sarangani Island,Municipality Of Sarangani
+09 January 2023 - 03:27 AM,5.88,125.83,127.0,2.0,021 km S 81° E of Jose Abad Santos (Davao Occidental),09 January 2023,03:27 AM,Slightly Felt,Jose Abad Santos,Davao Occidental
+09 January 2023 - 03:24 AM,14.08,120.43,111.0,1.8,022 km N 88° W of Nasugbu (Batangas),09 January 2023,03:24 AM,Scarcely Perceptible,Nasugbu,Batangas
+09 January 2023 - 03:02 AM,17.31,120.66,10.0,2.0,003 km S 82° W of Luba (Abra),09 January 2023,03:02 AM,Slightly Felt,Luba,Abra
+09 January 2023 - 02:35 AM,9.71,125.42,7.0,3.2,008 km S 02° W of San Francisco (Surigao Del Norte),09 January 2023,02:35 AM,Weak,San Francisco,Surigao Del Norte
+09 January 2023 - 02:31 AM,8.48,126.71,17.0,1.8,043 km N 73° E of Hinatuan (Surigao Del Sur),09 January 2023,02:31 AM,Scarcely Perceptible,Hinatuan,Surigao Del Sur
+09 January 2023 - 01:43 AM,9.07,126.79,1.0,2.5,056 km N 72° E of Cagwait (Surigao Del Sur),09 January 2023,01:43 AM,Slightly Felt,Cagwait,Surigao Del Sur
+09 January 2023 - 01:43 AM,9.02,126.85,4.0,2.2,062 km N 79° E of Cagwait (Surigao Del Sur),09 January 2023,01:43 AM,Slightly Felt,Cagwait,Surigao Del Sur
+09 January 2023 - 01:24 AM,13.38,122.76,14.0,1.7,011 km N 53° E of San Andres (Quezon),09 January 2023,01:24 AM,Scarcely Perceptible,San Andres,Quezon
+09 January 2023 - 12:30 AM,7.83,126.75,68.0,3.1,033 km N 82° E of Cateel (Davao Oriental),09 January 2023,12:30 AM,Weak,Cateel,Davao Oriental
+08 January 2023 - 11:11 PM,7.39,126.77,73.0,1.8,023 km N 74° E of Caraga (Davao Oriental),08 January 2023,11:11 PM,Scarcely Perceptible,Caraga,Davao Oriental
+08 January 2023 - 11:02 PM,13.64,120.54,84.0,2.3,023 km S 25° W of Calatagan (Batangas),08 January 2023,11:02 PM,Slightly Felt,Calatagan,Batangas
+08 January 2023 - 09:49 PM,6.29,126.94,69.0,2.6,100 km S 33° E of Tarragona (Davao Oriental),08 January 2023,09:49 PM,Slightly Felt,Tarragona,Davao Oriental
+08 January 2023 - 07:47 PM,18.25,121.99,4.0,2.1,001 km S 28° W of Gonzaga (Cagayan),08 January 2023,07:47 PM,Slightly Felt,Gonzaga,Cagayan
+08 January 2023 - 05:03 PM,8.39,125.99,2.0,1.6,001 km N 58° W of Rosario (Agusan Del Sur),08 January 2023,05:03 PM,Scarcely Perceptible,Rosario,Agusan Del Sur
+08 January 2023 - 05:02 PM,19.03,120.69,1.0,3.3,054 km N 11° W of Pagudpud (Ilocos Norte),08 January 2023,05:02 PM,Weak,Pagudpud,Ilocos Norte
+08 January 2023 - 04:13 PM,17.41,120.51,6.0,2.0,003 km S 81° E of Narvacan (Ilocos Sur),08 January 2023,04:13 PM,Slightly Felt,Narvacan,Ilocos Sur
+08 January 2023 - 03:51 PM,9.08,126.81,4.0,2.1,059 km N 72° E of Cagwait (Surigao Del Sur),08 January 2023,03:51 PM,Slightly Felt,Cagwait,Surigao Del Sur
+08 January 2023 - 12:41 PM,9.62,126.22,32.0,1.7,019 km S 20° E of General Luna (Surigao Del Norte),08 January 2023,12:41 PM,Scarcely Perceptible,General Luna,Surigao Del Norte
+08 January 2023 - 12:23 PM,13.51,120.58,1.0,2.5,016 km N 52° E of Paluan (Occidental Mindoro),08 January 2023,12:23 PM,Slightly Felt,Paluan,Occidental Mindoro
+08 January 2023 - 10:05 AM,2.95,127.5,143.0,3.6,357 km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),08 January 2023,10:05 AM,Weak,Balut Island,Municipality Of Sarangani
+08 January 2023 - 08:51 AM,10.12,124.87,54.0,2.0,004 km S 66° E of City Of Maasin (Southern Leyte),08 January 2023,08:51 AM,Slightly Felt,City Of Maasin,Southern Leyte
+08 January 2023 - 08:24 AM,9.3,126.26,30.0,1.8,007 km N 68° E of Cortes (Surigao Del Sur),08 January 2023,08:24 AM,Scarcely Perceptible,Cortes,Surigao Del Sur
+08 January 2023 - 08:20 AM,13.51,120.92,1.0,1.7,018 km S 19° E of Tingloy (Batangas),08 January 2023,08:20 AM,Scarcely Perceptible,Tingloy,Batangas
+08 January 2023 - 08:02 AM,10.3,124.99,1.0,3.4,001 km S 52° E of Tomas Oppus (Southern Leyte),08 January 2023,08:02 AM,Weak,Tomas Oppus,Southern Leyte
+08 January 2023 - 07:30 AM,6.17,127.2,2.0,3.1,128 km S 41° E of Tarragona (Davao Oriental),08 January 2023,07:30 AM,Weak,Tarragona,Davao Oriental
+08 January 2023 - 07:00 AM,7.49,126.51,135.0,5.0,011 km S 33° W of Baganga (Davao Oriental),08 January 2023,07:00 AM,Strong,Baganga,Davao Oriental
+08 January 2023 - 06:58 AM,16.97,123.05,6.0,2.6,067 km S 81° E of Palanan (Isabela),08 January 2023,06:58 AM,Slightly Felt,Palanan,Isabela
+08 January 2023 - 04:15 AM,9.24,125.78,33.0,2.2,021 km S 84° W of Madrid (Surigao Del Sur),08 January 2023,04:15 AM,Slightly Felt,Madrid,Surigao Del Sur
+08 January 2023 - 03:37 AM,14.79,119.42,16.0,2.5,074 km S 76° W of San Antonio (Zambales),08 January 2023,03:37 AM,Slightly Felt,San Antonio,Zambales
+08 January 2023 - 03:21 AM,9.78,126.16,21.0,1.5,000 km S 45° W of General Luna (Surigao Del Norte),08 January 2023,03:21 AM,Scarcely Perceptible,General Luna,Surigao Del Norte
+08 January 2023 - 03:20 AM,17.7,120.57,26.0,1.9,010 km N 86° W of Danglas (Abra),08 January 2023,03:20 AM,Scarcely Perceptible,Danglas,Abra
+08 January 2023 - 03:05 AM,10.24,123.24,24.0,1.8,014 km N 13° W of City Of Guihulngan (Negros Oriental),08 January 2023,03:05 AM,Scarcely Perceptible,City Of Guihulngan,Negros Oriental
+08 January 2023 - 02:57 AM,14.45,120.17,50.0,2.7,027 km S 22° W of Morong (Bataan),08 January 2023,02:57 AM,Slightly Felt,Morong,Bataan
+08 January 2023 - 01:44 AM,12.57,121.87,32.0,1.9,017 km N 71° W of San Andres (Romblon),08 January 2023,01:44 AM,Scarcely Perceptible,San Andres,Romblon
+08 January 2023 - 01:34 AM,9.18,125.67,24.0,2.5,015 km N 67° E of City Of Cabadbaran (Agusan Del Norte),08 January 2023,01:34 AM,Slightly Felt,City Of Cabadbaran,Agusan Del Norte
+08 January 2023 - 12:17 AM,18.58,120.44,19.0,2.0,023 km N 71° W of Burgos (Ilocos Norte),08 January 2023,12:17 AM,Slightly Felt,Burgos,Ilocos Norte
+07 January 2023 - 11:45 PM,9.81,123.85,18.0,1.5,006 km N 81° E of Loon (Bohol),07 January 2023,11:45 PM,Scarcely Perceptible,Loon,Bohol
+07 January 2023 - 11:27 PM,14.07,120.44,112.0,2.0,021 km S 88° W of Nasugbu (Batangas),07 January 2023,11:27 PM,Slightly Felt,Nasugbu,Batangas
+07 January 2023 - 10:01 PM,13.84,120.57,156.0,3.6,006 km N 85° W of Calatagan (Batangas),07 January 2023,10:01 PM,Weak,Calatagan,Batangas
+07 January 2023 - 09:33 PM,17.67,119.63,12.0,3.6,078 km N 83° W of Santa Catalina (Ilocos Sur),07 January 2023,09:33 PM,Weak,Santa Catalina,Ilocos Sur
+07 January 2023 - 09:09 PM,6.59,126.61,31.0,2.0,060 km S 83° E of Governor Generoso (Davao Oriental),07 January 2023,09:09 PM,Slightly Felt,Governor Generoso,Davao Oriental
+07 January 2023 - 08:20 PM,15.92,121.0,5.0,2.3,009 km S 55° W of Carranglan (Nueva Ecija),07 January 2023,08:20 PM,Slightly Felt,Carranglan,Nueva Ecija
+07 January 2023 - 07:59 PM,13.7,120.6,81.0,1.9,016 km S 13° W of Calatagan (Batangas),07 January 2023,07:59 PM,Scarcely Perceptible,Calatagan,Batangas
+07 January 2023 - 07:49 PM,15.89,120.97,4.0,3.5,008 km N 76° E of Lupao (Nueva Ecija),07 January 2023,07:49 PM,Weak,Lupao,Nueva Ecija
+07 January 2023 - 06:00 PM,10.75,124.95,29.0,1.9,006 km S 16° E of Javier (Leyte),07 January 2023,06:00 PM,Scarcely Perceptible,Javier,Leyte
+07 January 2023 - 04:17 PM,8.07,126.31,85.0,2.5,012 km N 74° W of Lingig (Surigao Del Sur),07 January 2023,04:17 PM,Slightly Felt,Lingig,Surigao Del Sur
+07 January 2023 - 01:31 PM,19.85,121.45,16.0,2.8,061 km N 53° W of Babuyan Island (Calayan) (Cagayan),07 January 2023,01:31 PM,Slightly Felt,Babuyan Island,Calayan
+07 January 2023 - 11:58 AM,13.12,125.47,83.0,2.8,074 km N 31° E of Palapag (Northern Samar),07 January 2023,11:58 AM,Slightly Felt,Palapag,Northern Samar
+07 January 2023 - 06:27 AM,17.81,120.67,15.0,2.7,010 km N 19° W of Lagayan (Abra),07 January 2023,06:27 AM,Slightly Felt,Lagayan,Abra
+07 January 2023 - 06:16 AM,16.72,120.83,6.0,3.1,009 km S 08° E of Buguias (Benguet),07 January 2023,06:16 AM,Weak,Buguias,Benguet
+06 January 2023 - 11:59 PM,9.06,126.1,30.0,2.7,007 km S 75° W of City Of Tandag (Surigao Del Sur),06 January 2023,11:59 PM,Slightly Felt,City Of Tandag,Surigao Del Sur
+06 January 2023 - 09:48 PM,5.12,126.3,22.0,3.2,099 km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),06 January 2023,09:48 PM,Weak,Sarangani Island,Municipality Of Sarangani
+06 January 2023 - 09:12 PM,16.06,121.99,4.0,2.3,010 km S 21° E of Dinalungan (Aurora),06 January 2023,09:12 PM,Slightly Felt,Dinalungan,Aurora
+06 January 2023 - 07:18 PM,16.21,120.76,25.0,2.1,019 km S 26° E of Itogon (Benguet),06 January 2023,07:18 PM,Slightly Felt,Itogon,Benguet
+06 January 2023 - 06:51 PM,18.76,120.86,2.0,2.8,026 km N 31° W of Santa Praxedes (Cagayan),06 January 2023,06:51 PM,Slightly Felt,Santa Praxedes,Cagayan
+06 January 2023 - 06:45 PM,9.1,125.64,9.0,3.3,008 km N 50° E of Remedios T. Romualdez (Agusan Del Norte),06 January 2023,06:45 PM,Weak,Remedios T. Romualdez,Agusan Del Norte
+06 January 2023 - 04:35 PM,13.92,120.53,83.0,1.4,014 km N 49° W of Calatagan (Batangas),06 January 2023,04:35 PM,Scarcely Perceptible,Calatagan,Batangas
+06 January 2023 - 04:17 PM,19.94,121.53,25.0,2.6,057 km S 39° W of Sabtang (Batanes),06 January 2023,04:17 PM,Slightly Felt,Sabtang,Batanes
+06 January 2023 - 12:49 PM,6.75,126.6,90.0,2.6,037 km S 28° E of Tarragona (Davao Oriental),06 January 2023,12:49 PM,Slightly Felt,Tarragona,Davao Oriental
+06 January 2023 - 12:03 PM,21.13,121.13,33.0,3.5,083 km N 63° W of Itbayat (Batanes),06 January 2023,12:03 PM,Weak,Itbayat,Batanes
+06 January 2023 - 09:08 AM,13.74,120.55,80.0,1.5,013 km S 42° W of Calatagan (Batangas),06 January 2023,09:08 AM,Scarcely Perceptible,Calatagan,Batangas
+06 January 2023 - 07:19 AM,9.36,123.87,24.0,2.3,026 km N 71° E of Enrique Villanueva (Siquijor),06 January 2023,07:19 AM,Slightly Felt,Enrique Villanueva,Siquijor
+06 January 2023 - 06:34 AM,10.3,121.86,22.0,2.5,016 km S 26° W of Anini-y (Antique),06 January 2023,06:34 AM,Slightly Felt,Anini-y,Antique
+06 January 2023 - 05:45 AM,7.65,126.9,1.0,2.5,038 km N 77° E of Baganga (Davao Oriental),06 January 2023,05:45 AM,Slightly Felt,Baganga,Davao Oriental
+06 January 2023 - 05:20 AM,6.26,126.3,23.0,2.4,050 km S 30° E of Governor Generoso (Davao Oriental),06 January 2023,05:20 AM,Slightly Felt,Governor Generoso,Davao Oriental
+06 January 2023 - 04:51 AM,5.87,126.59,63.0,2.6,103 km S 33° E of Governor Generoso (Davao Oriental),06 January 2023,04:51 AM,Slightly Felt,Governor Generoso,Davao Oriental
+06 January 2023 - 04:49 AM,12.69,119.94,38.0,2.3,062 km N 01° E of Busuanga (Palawan),06 January 2023,04:49 AM,Slightly Felt,Busuanga,Palawan
+06 January 2023 - 03:58 AM,18.4,120.8,5.0,2.4,013 km S 57° W of Adams (Ilocos Norte),06 January 2023,03:58 AM,Slightly Felt,Adams,Ilocos Norte
+06 January 2023 - 01:16 AM,9.69,122.06,17.0,3.3,042 km S 78° W of City Of Sipalay (Negros Occidental),06 January 2023,01:16 AM,Weak,City Of Sipalay,Negros Occidental
+06 January 2023 - 12:17 AM,17.45,120.44,3.0,2.2,004 km S 06° E of Santa (Ilocos Sur),06 January 2023,12:17 AM,Slightly Felt,Santa,Ilocos Sur
+06 January 2023 - 12:07 AM,17.55,120.44,19.0,2.5,006 km S 88° E of Caoayan (Ilocos Sur),06 January 2023,12:07 AM,Slightly Felt,Caoayan,Ilocos Sur
+06 January 2023 - 12:02 AM,7.1,122.42,3.0,2.0,045 km S 62° E of Sibuco (Zamboanga Del Norte),06 January 2023,12:02 AM,Slightly Felt,Sibuco,Zamboanga Del Norte
+05 January 2023 - 11:04 PM,14.02,120.48,137.0,2.1,017 km S 69° W of Nasugbu (Batangas),05 January 2023,11:04 PM,Slightly Felt,Nasugbu,Batangas
+05 January 2023 - 10:53 PM,8.31,126.53,27.0,2.2,022 km S 73° E of Hinatuan (Surigao Del Sur),05 January 2023,10:53 PM,Slightly Felt,Hinatuan,Surigao Del Sur
+05 January 2023 - 10:37 PM,16.96,121.52,8.0,1.5,005 km N 35° E of Alfonso Lista (Ifugao),05 January 2023,10:37 PM,Scarcely Perceptible,Alfonso Lista,Ifugao
+05 January 2023 - 10:20 PM,18.19,121.18,7.0,2.2,016 km S 65° E of Calanasan (Apayao),05 January 2023,10:20 PM,Slightly Felt,Calanasan,Apayao
+05 January 2023 - 09:44 PM,17.55,122.6,31.0,2.9,040 km N 52° E of Divilacan (Isabela),05 January 2023,09:44 PM,Slightly Felt,Divilacan,Isabela
+05 January 2023 - 09:35 PM,13.84,120.6,118.0,1.7,003 km N 82° W of Calatagan (Batangas),05 January 2023,09:35 PM,Scarcely Perceptible,Calatagan,Batangas
+05 January 2023 - 07:30 PM,15.03,121.74,1.0,2.0,013 km N 38° W of Panukulan (Quezon),05 January 2023,07:30 PM,Slightly Felt,Panukulan,Quezon
+05 January 2023 - 06:24 PM,20.44,121.54,33.0,2.5,038 km N 71° W of Sabtang (Batanes),05 January 2023,06:24 PM,Slightly Felt,Sabtang,Batanes
+05 January 2023 - 05:47 PM,6.27,126.09,56.0,3.2,045 km N 79° E of Don Marcelino (Davao Occidental),05 January 2023,05:47 PM,Weak,Don Marcelino,Davao Occidental
+05 January 2023 - 03:06 PM,8.89,126.36,31.0,1.9,007 km S 67° E of Cagwait (Surigao Del Sur),05 January 2023,03:06 PM,Scarcely Perceptible,Cagwait,Surigao Del Sur
+05 January 2023 - 01:28 PM,6.35,126.54,72.0,2.7,061 km S 57° E of Governor Generoso (Davao Oriental),05 January 2023,01:28 PM,Slightly Felt,Governor Generoso,Davao Oriental
+05 January 2023 - 01:05 PM,17.77,120.77,8.0,2.1,009 km N 52° E of Lagayan (Abra),05 January 2023,01:05 PM,Slightly Felt,Lagayan,Abra
+05 January 2023 - 10:06 AM,14.43,122.08,7.0,1.6,004 km N 81° E of Balesin Island (Polillo) (Quezon),05 January 2023,10:06 AM,Scarcely Perceptible,Balesin Island,Polillo
+05 January 2023 - 07:25 AM,6.28,125.96,125.0,2.7,031 km N 73° E of Don Marcelino (Davao Occidental),05 January 2023,07:25 AM,Slightly Felt,Don Marcelino,Davao Occidental
+05 January 2023 - 06:41 AM,9.58,125.98,1.0,3.1,005 km S 18° E of Socorro (Surigao Del Norte),05 January 2023,06:41 AM,Weak,Socorro,Surigao Del Norte
+05 January 2023 - 06:19 AM,10.34,125.1,27.0,2.0,007 km N 45° E of Libagon (Southern Leyte),05 January 2023,06:19 AM,Slightly Felt,Libagon,Southern Leyte
+05 January 2023 - 05:44 AM,10.09,126.2,32.0,1.7,016 km N 59° E of Burgos (Surigao Del Norte),05 January 2023,05:44 AM,Scarcely Perceptible,Burgos,Surigao Del Norte
+05 January 2023 - 02:39 AM,7.64,124.85,7.0,2.5,008 km N 55° W of Kadingilan (Bukidnon),05 January 2023,02:39 AM,Slightly Felt,Kadingilan,Bukidnon
